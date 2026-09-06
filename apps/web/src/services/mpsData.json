@@ -1,0 +1,5699 @@
+[
+  {
+    "mpName": "Rajiv Pratap Rudy",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "SARAN",
+    "totalWorks": 28,
+    "totalAllocated": 211163341,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Krishna Pal Singh Yadav",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "GUNA",
+    "totalWorks": 60,
+    "totalAllocated": 193393425,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "A Ganeshamurthi",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "ERODE",
+    "totalWorks": 197,
+    "totalAllocated": 188654000,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Talari Rangaiah",
+    "house": "Lok Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "ANANTAPUR",
+    "totalWorks": 225,
+    "totalAllocated": 167462917,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Ms Bhavana Gawali (Patil)",
+    "house": "Lok Sabha",
+    "state": "Maharashtra",
+    "constituency": "YAVATMAL-WASHIM",
+    "totalWorks": 170,
+    "totalAllocated": 162311830,
+    "avgRiskScore": 60
+  },
+  {
+    "mpName": "SHRI. Dharmendra Pradhan",
+    "house": "Rajya Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 33,
+    "totalAllocated": 150358000,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "SHRI Anil Baluni",
+    "house": "Lok Sabha",
+    "state": "Uttarakhand",
+    "constituency": "nan",
+    "totalWorks": 1,
+    "totalAllocated": 150000000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Shri LS Tejasvi Surya",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "BANGALORE SOUTH",
+    "totalWorks": 105,
+    "totalAllocated": 147713000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Smt Ranjeeta Koli",
+    "house": "Lok Sabha",
+    "state": "Rajasthan",
+    "constituency": "BHARATPUR(SC)",
+    "totalWorks": 320,
+    "totalAllocated": 144491308,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Beesetti Venkata Satyavathi",
+    "house": "Lok Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "ANAKAPALLE",
+    "totalWorks": 79,
+    "totalAllocated": 142284581,
+    "avgRiskScore": 29
+  },
+  {
+    "mpName": "SH Derek o Brien",
+    "house": "Rajya Sabha",
+    "state": "West Bengal",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 710,
+    "totalAllocated": 141998056,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Dr Umesh G Jadhav",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "GULBARGA(SC)",
+    "totalWorks": 220,
+    "totalAllocated": 141617000,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Faizal PP Mohammed",
+    "house": "Lok Sabha",
+    "state": "Lakshadweep",
+    "constituency": "LAKSHADWEEP(ST)",
+    "totalWorks": 42,
+    "totalAllocated": 140315390,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Nitesh Ganga Deb",
+    "house": "Lok Sabha",
+    "state": "Odisha",
+    "constituency": "SAMBALPUR",
+    "totalWorks": 218,
+    "totalAllocated": 139301777,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Harnath Singh Yadav (SRS)",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 83,
+    "totalAllocated": 138818432,
+    "avgRiskScore": 60
+  },
+  {
+    "mpName": "Goddeti Madhavi",
+    "house": "Lok Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "ARAKU(ST)",
+    "totalWorks": 255,
+    "totalAllocated": 134712420,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "SHRI Vinay D Tendulkar",
+    "house": "Rajya Sabha",
+    "state": "Goa",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 85,
+    "totalAllocated": 133130429,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "SH Bhupender Yadav",
+    "house": "Rajya Sabha",
+    "state": "Rajasthan",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 121,
+    "totalAllocated": 132300000,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Ajay Tamta",
+    "house": "Lok Sabha",
+    "state": "Uttarakhand",
+    "constituency": "ALMORA(SC)",
+    "totalWorks": 824,
+    "totalAllocated": 130554987,
+    "avgRiskScore": 45
+  },
+  {
+    "mpName": "SHRI Anil Agarwal",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 269,
+    "totalAllocated": 129209967,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Gajendra Singh Shekhawat",
+    "house": "Lok Sabha",
+    "state": "Rajasthan",
+    "constituency": "JODHPUR",
+    "totalWorks": 219,
+    "totalAllocated": 129208010,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "S Ramalingam",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "MAYILADUTHURAI",
+    "totalWorks": 132,
+    "totalAllocated": 128399800,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "Andimuthu Raja",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "NILGIRIS(SC)",
+    "totalWorks": 171,
+    "totalAllocated": 125436000,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Rajiv Ranjan (Lalan) Singh",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "MUNGER",
+    "totalWorks": 273,
+    "totalAllocated": 123013405,
+    "avgRiskScore": 22
+  },
+  {
+    "mpName": "Smt Chinta Anuradha",
+    "house": "Lok Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "AMALAPURAM(SC)",
+    "totalWorks": 201,
+    "totalAllocated": 122780000,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Arvind Kumar Sharma",
+    "house": "Lok Sabha",
+    "state": "Haryana",
+    "constituency": "ROHTAK",
+    "totalWorks": 195,
+    "totalAllocated": 122513571,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Magunta Sreenivasulu Reddy",
+    "house": "Lok Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "ONGOLE",
+    "totalWorks": 238,
+    "totalAllocated": 121987300,
+    "avgRiskScore": 22
+  },
+  {
+    "mpName": "Shri N Reddeppa",
+    "house": "Lok Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "CHITTOOR",
+    "totalWorks": 190,
+    "totalAllocated": 121138000,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Shri Sakaldeep Rajbhar",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 171,
+    "totalAllocated": 120718000,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "Chandan Singh",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "NAWADA",
+    "totalWorks": 243,
+    "totalAllocated": 120712100,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Sushil Kumar Singh",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "AURANGABAD_BR",
+    "totalWorks": 282,
+    "totalAllocated": 120203600,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "SH Manoj Kumar Jha",
+    "house": "Rajya Sabha",
+    "state": "Bihar",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 135,
+    "totalAllocated": 119429000,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Sanjay Bhatia",
+    "house": "Lok Sabha",
+    "state": "Haryana",
+    "constituency": "KARNAL",
+    "totalWorks": 155,
+    "totalAllocated": 119328110,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Soyam Babu Rao",
+    "house": "Lok Sabha",
+    "state": "Telangana",
+    "constituency": "ADILABAD(ST)",
+    "totalWorks": 385,
+    "totalAllocated": 119179246,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Rajyavardhan Singh Rathore",
+    "house": "Lok Sabha",
+    "state": "Rajasthan",
+    "constituency": "JAIPUR RURAL",
+    "totalWorks": 178,
+    "totalAllocated": 118915000,
+    "avgRiskScore": 22
+  },
+  {
+    "mpName": "Smt Sangeeta Kumari Singh Deo",
+    "house": "Lok Sabha",
+    "state": "Odisha",
+    "constituency": "BOLANGIR",
+    "totalWorks": 537,
+    "totalAllocated": 118885000,
+    "avgRiskScore": 43
+  },
+  {
+    "mpName": "SHRI CM Ramesh",
+    "house": "Rajya Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 123,
+    "totalAllocated": 117720333,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "SHRI Abir Ranjan Biswas",
+    "house": "Rajya Sabha",
+    "state": "West Bengal",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 20,
+    "totalAllocated": 117600000,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "Smt Mausam Noor",
+    "house": "Rajya Sabha",
+    "state": "West Bengal",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 8,
+    "totalAllocated": 117600000,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "SHRI Mansukh Madaviya",
+    "house": "Rajya Sabha",
+    "state": "Gujarat",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 94,
+    "totalAllocated": 116900000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Dinesh Chandra Yadav",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "MADHEPURA",
+    "totalWorks": 130,
+    "totalAllocated": 115595780,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Uttam Kumar Nalamada Reddy",
+    "house": "Lok Sabha",
+    "state": "Telangana",
+    "constituency": "NALGONDA",
+    "totalWorks": 288,
+    "totalAllocated": 114143848,
+    "avgRiskScore": 22
+  },
+  {
+    "mpName": "Om Birla",
+    "house": "Lok Sabha",
+    "state": "Rajasthan",
+    "constituency": "KOTA",
+    "totalWorks": 201,
+    "totalAllocated": 113730507,
+    "avgRiskScore": 31
+  },
+  {
+    "mpName": "SHRI Rajeev Chandrashekhar",
+    "house": "Rajya Sabha",
+    "state": "Karnataka",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 195,
+    "totalAllocated": 113600000,
+    "avgRiskScore": 22
+  },
+  {
+    "mpName": "Shri Som Prakash",
+    "house": "Lok Sabha",
+    "state": "Punjab",
+    "constituency": "HOSHIARPUR(SC)",
+    "totalWorks": 498,
+    "totalAllocated": 112421780,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "S.S. Palanimanickam",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "THANJAVUR",
+    "totalWorks": 41,
+    "totalAllocated": 111160000,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Kuldeep Rai Sharma",
+    "house": "Lok Sabha",
+    "state": "Andaman And Nicobar Islands",
+    "constituency": "ANDAMAN AND NICOBAR ISLANDS",
+    "totalWorks": 59,
+    "totalAllocated": 110488574,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Smt Veena Devi",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "VAISHALI",
+    "totalWorks": 71,
+    "totalAllocated": 110104701,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Maddila Gurumoorthy",
+    "house": "Lok Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "TIRUPATI(SC)",
+    "totalWorks": 113,
+    "totalAllocated": 109988011,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Hasnain Masoodi",
+    "house": "Lok Sabha",
+    "state": "Jammu And Kashmir",
+    "constituency": "ANANTNAG",
+    "totalWorks": 386,
+    "totalAllocated": 109621863,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Ramesh Chandappa Jigajinagi",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "BIJAPUR(SC)",
+    "totalWorks": 408,
+    "totalAllocated": 108990000,
+    "avgRiskScore": 29
+  },
+  {
+    "mpName": "Dr Sanjeev Kumar Singari",
+    "house": "Lok Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "KURNOOL",
+    "totalWorks": 355,
+    "totalAllocated": 108762438,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "Topon Kumar Gogoi",
+    "house": "Lok Sabha",
+    "state": "Assam",
+    "constituency": "JORHAT",
+    "totalWorks": 191,
+    "totalAllocated": 108700000,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Shri Jual Oram",
+    "house": "Lok Sabha",
+    "state": "Odisha",
+    "constituency": "SUNDARGARH (ST)",
+    "totalWorks": 206,
+    "totalAllocated": 108590000,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Dushyant Singh",
+    "house": "Lok Sabha",
+    "state": "Rajasthan",
+    "constituency": "JHALAWAR-BARAN",
+    "totalWorks": 232,
+    "totalAllocated": 108390000,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Ramcharan Bohra",
+    "house": "Lok Sabha",
+    "state": "Rajasthan",
+    "constituency": "JAIPUR",
+    "totalWorks": 104,
+    "totalAllocated": 107902023,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Shri PP Chaudhary",
+    "house": "Lok Sabha",
+    "state": "Rajasthan",
+    "constituency": "PALI",
+    "totalWorks": 186,
+    "totalAllocated": 106702750,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Smt Jaskaur Meena",
+    "house": "Lok Sabha",
+    "state": "Rajasthan",
+    "constituency": "DAUSA(ST)",
+    "totalWorks": 258,
+    "totalAllocated": 106298586,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "TRVS Ramesh",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "CUDDALORE",
+    "totalWorks": 184,
+    "totalAllocated": 106153410,
+    "avgRiskScore": 52
+  },
+  {
+    "mpName": "Raja Amareshwara Naik",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "RAICHUR(ST)",
+    "totalWorks": 204,
+    "totalAllocated": 106000000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Pradeep Kumar Singh",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "ARARIA",
+    "totalWorks": 25,
+    "totalAllocated": 104430171,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Shri Arjun Singh",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "BARRACKPUR",
+    "totalWorks": 53,
+    "totalAllocated": 103542803,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Smt Preneet Kaur",
+    "house": "Lok Sabha",
+    "state": "Punjab",
+    "constituency": "PATIALA",
+    "totalWorks": 206,
+    "totalAllocated": 103400000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Giriraj Singh",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "BEGUSARAI",
+    "totalWorks": 82,
+    "totalAllocated": 103050000,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Thalikkottai Rajuthevar Baalu",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "SRIPERUMBUDUR",
+    "totalWorks": 111,
+    "totalAllocated": 102804000,
+    "avgRiskScore": 43
+  },
+  {
+    "mpName": "Bache BN Gowda",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "CHIKBALLAPUR",
+    "totalWorks": 222,
+    "totalAllocated": 102780000,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Francisco Cosme Sardinha",
+    "house": "Lok Sabha",
+    "state": "Goa",
+    "constituency": "SOUTH GOA",
+    "totalWorks": 86,
+    "totalAllocated": 102707302,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "Shri Gautham Sigamani Pon",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "KALLAKURICHI",
+    "totalWorks": 108,
+    "totalAllocated": 102691400,
+    "avgRiskScore": 60
+  },
+  {
+    "mpName": "Kaushalendra Kumar",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "NALANDA",
+    "totalWorks": 272,
+    "totalAllocated": 102657907,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Ramesh Chander Kaushik",
+    "house": "Lok Sabha",
+    "state": "Haryana",
+    "constituency": "SONEPAT",
+    "totalWorks": 172,
+    "totalAllocated": 102522703,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "Ajay Kumar Mandal",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "BHAGALPUR",
+    "totalWorks": 97,
+    "totalAllocated": 102224390,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Smt Harsimrat Kaur Badal",
+    "house": "Lok Sabha",
+    "state": "Punjab",
+    "constituency": "BHATINDA",
+    "totalWorks": 246,
+    "totalAllocated": 102119960,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "Horen Sing Bey",
+    "house": "Lok Sabha",
+    "state": "Assam",
+    "constituency": "AUTONOMOUS DISTRICT(ST)",
+    "totalWorks": 32,
+    "totalAllocated": 101200107,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "SHRI Pilli Subhaschandra Bose",
+    "house": "Rajya Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 72,
+    "totalAllocated": 101150000,
+    "avgRiskScore": 43
+  },
+  {
+    "mpName": "Nihal Chand Chauhan",
+    "house": "Lok Sabha",
+    "state": "Rajasthan",
+    "constituency": "GANGANAGAR(SC)",
+    "totalWorks": 119,
+    "totalAllocated": 101059000,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Shri Janardan Singh Sigriwal",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "MAHARAJGANJ_BR",
+    "totalWorks": 94,
+    "totalAllocated": 100773911,
+    "avgRiskScore": 36
+  },
+  {
+    "mpName": "SHRI Venkataramana Rao Mopidevi",
+    "house": "Rajya Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 80,
+    "totalAllocated": 100163001,
+    "avgRiskScore": 57
+  },
+  {
+    "mpName": "Ajay Bhatt",
+    "house": "Lok Sabha",
+    "state": "Uttarakhand",
+    "constituency": "NAINITAL UDHAM SINGH NAG.",
+    "totalWorks": 333,
+    "totalAllocated": 100095212,
+    "avgRiskScore": 45
+  },
+  {
+    "mpName": "Shri Tapir Gao",
+    "house": "Lok Sabha",
+    "state": "Arunachal Pradesh",
+    "constituency": "ARUNACHAL EAST",
+    "totalWorks": 133,
+    "totalAllocated": 99900000,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Shri Chandra Prakash Choudhary",
+    "house": "Lok Sabha",
+    "state": "Jharkhand",
+    "constituency": "GIRIDIH",
+    "totalWorks": 348,
+    "totalAllocated": 99690200,
+    "avgRiskScore": 50
+  },
+  {
+    "mpName": "vijayakumar Vasanth",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "KANNIYAKUMARI",
+    "totalWorks": 83,
+    "totalAllocated": 99592800,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "SH L Murugan",
+    "house": "Rajya Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 177,
+    "totalAllocated": 99585000,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "SHRI. Hardeep Singh Puri",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 181,
+    "totalAllocated": 99582000,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "Smt Kavita Singh",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "SIWAN",
+    "totalWorks": 109,
+    "totalAllocated": 99285097,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Ganesan Selvam",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "KANCHEEPURAM(SC)",
+    "totalWorks": 253,
+    "totalAllocated": 99045000,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "SHRI Deepender Singh",
+    "house": "Rajya Sabha",
+    "state": "Haryana",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 149,
+    "totalAllocated": 98650045,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "SHRI. M.Mohamed Abdulla",
+    "house": "Rajya Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 47,
+    "totalAllocated": 98345900,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "Shri Rajendra Agrawal",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "MEERUT",
+    "totalWorks": 88,
+    "totalAllocated": 98328075,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Kripanath Mallah",
+    "house": "Lok Sabha",
+    "state": "Assam",
+    "constituency": "KARIMGANJ (SC)",
+    "totalWorks": 73,
+    "totalAllocated": 98239006,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "SHRI Jawahar Sircar",
+    "house": "Rajya Sabha",
+    "state": "West Bengal",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 6,
+    "totalAllocated": 98000000,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "SHRI Santanu Sen",
+    "house": "Rajya Sabha",
+    "state": "West Bengal",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 17,
+    "totalAllocated": 98000000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Thiru Dayanidhi Maran",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "CHENNAI CENTRAL",
+    "totalWorks": 10,
+    "totalAllocated": 98000000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "SHRI Subhasish Chakrobarty",
+    "house": "Rajya Sabha",
+    "state": "West Bengal",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 24,
+    "totalAllocated": 97999999,
+    "avgRiskScore": 22
+  },
+  {
+    "mpName": "Shri Harish Dwivedi",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "BASTI",
+    "totalWorks": 5,
+    "totalAllocated": 97843200,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "MVVV Satyanarayana",
+    "house": "Lok Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "VISAKHAPATNAM",
+    "totalWorks": 58,
+    "totalAllocated": 97692000,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Bhagirath Chaudhary",
+    "house": "Lok Sabha",
+    "state": "Rajasthan",
+    "constituency": "AJMER",
+    "totalWorks": 229,
+    "totalAllocated": 97615388,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Rebati Tripura",
+    "house": "Lok Sabha",
+    "state": "Tripura",
+    "constituency": "TRIPURA EAST(ST)",
+    "totalWorks": 18,
+    "totalAllocated": 97614666,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "T Sumathy (A) Thamizhachi Thangapandian",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "CHENNAI SOUTH",
+    "totalWorks": 20,
+    "totalAllocated": 97450000,
+    "avgRiskScore": 23
+  },
+  {
+    "mpName": "Chirag Paswan",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "JAMUI(SC)",
+    "totalWorks": 316,
+    "totalAllocated": 97394000,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "SHRI Prabhakar Reddy Vemireddy",
+    "house": "Rajya Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 157,
+    "totalAllocated": 97337000,
+    "avgRiskScore": 50
+  },
+  {
+    "mpName": "Adala Reddy",
+    "house": "Lok Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "NELLORE(SC)",
+    "totalWorks": 102,
+    "totalAllocated": 97285000,
+    "avgRiskScore": 52
+  },
+  {
+    "mpName": "Shri Thomas Chazhikadan",
+    "house": "Lok Sabha",
+    "state": "Kerala",
+    "constituency": "KOTTAYAM",
+    "totalWorks": 202,
+    "totalAllocated": 97158864,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "SHRI Ajay Pratap Singh",
+    "house": "Rajya Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 35,
+    "totalAllocated": 97031977,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "SHRI P SELVARASU",
+    "house": "Rajya Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 91,
+    "totalAllocated": 96960000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Sanjay Jaiswal",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "PASCHIM CHAMPARAN",
+    "totalWorks": 212,
+    "totalAllocated": 96925050,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Shri Hanuman Beniwal",
+    "house": "Lok Sabha",
+    "state": "Rajasthan",
+    "constituency": "NAGAUR",
+    "totalWorks": 125,
+    "totalAllocated": 96900000,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Dr Amee Yajnik Harshadray",
+    "house": "Rajya Sabha",
+    "state": "Gujarat",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 165,
+    "totalAllocated": 96574000,
+    "avgRiskScore": 60
+  },
+  {
+    "mpName": "Brijendra Singh",
+    "house": "Lok Sabha",
+    "state": "Haryana",
+    "constituency": "HISAR",
+    "totalWorks": 330,
+    "totalAllocated": 96507798,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Raj Kumar Singh",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "ARRAH",
+    "totalWorks": 69,
+    "totalAllocated": 96486000,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Venkatesh Netha Borlakunta",
+    "house": "Lok Sabha",
+    "state": "Telangana",
+    "constituency": "PEDDAPALLE",
+    "totalWorks": 336,
+    "totalAllocated": 96040000,
+    "avgRiskScore": 22
+  },
+  {
+    "mpName": "Pocha Brahmananda Reddy",
+    "house": "Lok Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "NANDYAL",
+    "totalWorks": 155,
+    "totalAllocated": 95921337,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "Rao Inderjit Singh",
+    "house": "Lok Sabha",
+    "state": "Haryana",
+    "constituency": "GURGAON",
+    "totalWorks": 121,
+    "totalAllocated": 95469000,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Tirath Singh Rawat",
+    "house": "Lok Sabha",
+    "state": "Uttarakhand",
+    "constituency": "GARHWAL",
+    "totalWorks": 398,
+    "totalAllocated": 95400151,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Sunil Kumar Pintu",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "SITAMARHI",
+    "totalWorks": 174,
+    "totalAllocated": 95248000,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Smt Kavitha Malothu",
+    "house": "Lok Sabha",
+    "state": "Telangana",
+    "constituency": "MAHABUBABAD",
+    "totalWorks": 199,
+    "totalAllocated": 95048658,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Shri R. Dharmar",
+    "house": "Rajya Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 82,
+    "totalAllocated": 94929779,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Chandra Sekhar Bellana",
+    "house": "Lok Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "VIZIANAGARAM",
+    "totalWorks": 259,
+    "totalAllocated": 94282671,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "P Velusamy",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "DINDIGUL",
+    "totalWorks": 109,
+    "totalAllocated": 94254531,
+    "avgRiskScore": 45
+  },
+  {
+    "mpName": "Shri Niranjan Bishi",
+    "house": "Rajya Sabha",
+    "state": "Odisha",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 226,
+    "totalAllocated": 93336017,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Aneel Prasad Hegde (SRS)",
+    "house": "Rajya Sabha",
+    "state": "Bihar",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 146,
+    "totalAllocated": 93150000,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "SHRI Sukhendu Sekhar Ray",
+    "house": "Rajya Sabha",
+    "state": "West Bengal",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 392,
+    "totalAllocated": 93100000,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "SHRI Subrata Bakshi",
+    "house": "Rajya Sabha",
+    "state": "West Bengal",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 17,
+    "totalAllocated": 92651974,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "SH Dhiraj Prasad Sahu",
+    "house": "Rajya Sabha",
+    "state": "Jharkhand",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 110,
+    "totalAllocated": 92328000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Rahul Kaswan",
+    "house": "Lok Sabha",
+    "state": "Rajasthan",
+    "constituency": "CHURU",
+    "totalWorks": 160,
+    "totalAllocated": 92023451,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "SHRI Devender Paul Vats",
+    "house": "Rajya Sabha",
+    "state": "Haryana",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 205,
+    "totalAllocated": 91907236,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "SHRI Badugula lingaiah Yadav",
+    "house": "Rajya Sabha",
+    "state": "Telangana",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 177,
+    "totalAllocated": 91259398,
+    "avgRiskScore": 36
+  },
+  {
+    "mpName": "SH Vijay Pal Singh Tomar",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 140,
+    "totalAllocated": 91159244,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "Anbumani Ramadoss (SRS)",
+    "house": "Rajya Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 86,
+    "totalAllocated": 90595000,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "Jayadev Galla",
+    "house": "Lok Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "GUNTUR",
+    "totalWorks": 105,
+    "totalAllocated": 90404500,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Sanganna Amarappa Karadi",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "KOPPAL",
+    "totalWorks": 263,
+    "totalAllocated": 89700000,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "Shri Komati Reddy Venkat Reddy",
+    "house": "Lok Sabha",
+    "state": "Telangana",
+    "constituency": "BHONGIR",
+    "totalWorks": 358,
+    "totalAllocated": 88758000,
+    "avgRiskScore": 50
+  },
+  {
+    "mpName": "Giridhari Yadav",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "BANKA",
+    "totalWorks": 110,
+    "totalAllocated": 88592400,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Y S Avinash Reddy",
+    "house": "Lok Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "KADAPA",
+    "totalWorks": 113,
+    "totalAllocated": 88219000,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "T R Paarivendhar",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "PERAMBALUR",
+    "totalWorks": 46,
+    "totalAllocated": 87791000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Kinjarapu Ram Mohan Naidu",
+    "house": "Lok Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "SRIKAKULAM",
+    "totalWorks": 148,
+    "totalAllocated": 86920000,
+    "avgRiskScore": 60
+  },
+  {
+    "mpName": "Arun Sao",
+    "house": "Lok Sabha",
+    "state": "Chhattisgarh",
+    "constituency": "BILASPUR",
+    "totalWorks": 192,
+    "totalAllocated": 86700000,
+    "avgRiskScore": 31
+  },
+  {
+    "mpName": "Indra Hang Subba",
+    "house": "Lok Sabha",
+    "state": "Sikkim",
+    "constituency": "SIKKIM",
+    "totalWorks": 46,
+    "totalAllocated": 86500000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Shri Rajmani Patel",
+    "house": "Rajya Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 258,
+    "totalAllocated": 86305216,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "S. Jagathrakshakan",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "ARAKKONAM",
+    "totalWorks": 83,
+    "totalAllocated": 86263060,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Santosh Kumar",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "PURNEA",
+    "totalWorks": 87,
+    "totalAllocated": 86216700,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Basanta Kumar Panda",
+    "house": "Lok Sabha",
+    "state": "Odisha",
+    "constituency": "KALAHANDI",
+    "totalWorks": 302,
+    "totalAllocated": 86000000,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Ravindra Shyamnarayan Alias Ravi Kishan Shukla",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "GORAKHPUR",
+    "totalWorks": 54,
+    "totalAllocated": 85854300,
+    "avgRiskScore": 27
+  },
+  {
+    "mpName": "S Muniswamy",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "KOLAR(SC)",
+    "totalWorks": 172,
+    "totalAllocated": 85556000,
+    "avgRiskScore": 52
+  },
+  {
+    "mpName": "Sanjay Haribhau Jadhav",
+    "house": "Lok Sabha",
+    "state": "Maharashtra",
+    "constituency": "PARBHANI",
+    "totalWorks": 112,
+    "totalAllocated": 85124779,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "SHRI Sudhanshu Trivedi",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 80,
+    "totalAllocated": 84502000,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "Lavu Sri Krishna Devarayalu",
+    "house": "Lok Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "NARASARAOPET",
+    "totalWorks": 117,
+    "totalAllocated": 84320000,
+    "avgRiskScore": 29
+  },
+  {
+    "mpName": "SHRI. Prashanta Nanda",
+    "house": "Rajya Sabha",
+    "state": "Odisha",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 203,
+    "totalAllocated": 84300000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Shri Lorho S Pfoze",
+    "house": "Lok Sabha",
+    "state": "Manipur",
+    "constituency": "OUTER MANIPUR(ST)",
+    "totalWorks": 69,
+    "totalAllocated": 84250000,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "SHRI GK VASAN",
+    "house": "Rajya Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 79,
+    "totalAllocated": 83851814,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Jairam Ramesh (SRS)",
+    "house": "Rajya Sabha",
+    "state": "Karnataka",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 71,
+    "totalAllocated": 83728565,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Shri Masthan Rao Beeda",
+    "house": "Rajya Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 89,
+    "totalAllocated": 83247000,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "Chandeshwar Prasad",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "JAHANABAD",
+    "totalWorks": 206,
+    "totalAllocated": 83240995,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "SHRI G C Chandrashekhar",
+    "house": "Rajya Sabha",
+    "state": "Karnataka",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 75,
+    "totalAllocated": 83200000,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "SHRI Ahmad Ashfaque Karim",
+    "house": "Rajya Sabha",
+    "state": "Bihar",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 64,
+    "totalAllocated": 82539400,
+    "avgRiskScore": 60
+  },
+  {
+    "mpName": "Dr Mohammad Jawed",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "KISHANGANJ",
+    "totalWorks": 100,
+    "totalAllocated": 82530578,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Mr Gopal Jee Thakur",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "DARBHANGA",
+    "totalWorks": 172,
+    "totalAllocated": 81997800,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "SHRI. Rakesh Sinha",
+    "house": "Rajya Sabha",
+    "state": "Bihar",
+    "constituency": "Nominated Rajya Sabha",
+    "totalWorks": 276,
+    "totalAllocated": 81506500,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Geeta Kora",
+    "house": "Lok Sabha",
+    "state": "Jharkhand",
+    "constituency": "SINGHBHUM(ST)",
+    "totalWorks": 123,
+    "totalAllocated": 81125231,
+    "avgRiskScore": 45
+  },
+  {
+    "mpName": "Km Shobha Karandlaje",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "UDUPI CHIKMAGALUR",
+    "totalWorks": 180,
+    "totalAllocated": 80650000,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Sardar Simranjit Singh Mann",
+    "house": "Lok Sabha",
+    "state": "Punjab",
+    "constituency": "SANGRUR",
+    "totalWorks": 554,
+    "totalAllocated": 80448166,
+    "avgRiskScore": 29
+  },
+  {
+    "mpName": "SHRI Ram Chander Jangra",
+    "house": "Rajya Sabha",
+    "state": "Haryana",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 80,
+    "totalAllocated": 80331804,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "Kiren Rijiju",
+    "house": "Lok Sabha",
+    "state": "Arunachal Pradesh",
+    "constituency": "ARUNACHAL WEST",
+    "totalWorks": 167,
+    "totalAllocated": 80050000,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "Smt Kanta Kardam",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 160,
+    "totalAllocated": 79906820,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "SHRI Sanjeev Arora",
+    "house": "Rajya Sabha",
+    "state": "Punjab",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 55,
+    "totalAllocated": 79814659,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Sukhbir Singh Badal",
+    "house": "Lok Sabha",
+    "state": "Punjab",
+    "constituency": "FIROZPUR",
+    "totalWorks": 267,
+    "totalAllocated": 79764983,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Kanimozhi Karunanidhi",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "THOOTHUKKUDI",
+    "totalWorks": 49,
+    "totalAllocated": 79750000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "SHRI Muzibulla Khan",
+    "house": "Rajya Sabha",
+    "state": "Odisha",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 170,
+    "totalAllocated": 79500000,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "SHRI Parimal Nathwani",
+    "house": "Rajya Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 7,
+    "totalAllocated": 79500000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Kalanidhi Veeraswamy",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "CHENNAI NORTH",
+    "totalWorks": 21,
+    "totalAllocated": 79379000,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Ms Pratima Bhoumik",
+    "house": "Lok Sabha",
+    "state": "Tripura",
+    "constituency": "TRIPURA WEST",
+    "totalWorks": 147,
+    "totalAllocated": 79308168,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Sunil Kumar Soni",
+    "house": "Lok Sabha",
+    "state": "Chhattisgarh",
+    "constituency": "RAIPUR",
+    "totalWorks": 183,
+    "totalAllocated": 79010000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Nandigam Suresh",
+    "house": "Lok Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "BAPATLA",
+    "totalWorks": 106,
+    "totalAllocated": 78825971,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Su Thirunavukkarasar",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "TIRUCHIRAPPALLI",
+    "totalWorks": 174,
+    "totalAllocated": 78379000,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Mohan Mandavi",
+    "house": "Lok Sabha",
+    "state": "Chhattisgarh",
+    "constituency": "KANKER(ST)",
+    "totalWorks": 177,
+    "totalAllocated": 78221900,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "D M Kathir Anand",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "VELLORE",
+    "totalWorks": 63,
+    "totalAllocated": 78100000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Radha Mohan Singh",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "PURVI CHAMPARAN",
+    "totalWorks": 54,
+    "totalAllocated": 77565000,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "S Venkatesan",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "MADURAI",
+    "totalWorks": 123,
+    "totalAllocated": 77562031,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "Sunil Kumar",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "VALMIKI NAGAR",
+    "totalWorks": 87,
+    "totalAllocated": 77511000,
+    "avgRiskScore": 52
+  },
+  {
+    "mpName": "SHRI Neeraj Dangi",
+    "house": "Rajya Sabha",
+    "state": "Rajasthan",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 69,
+    "totalAllocated": 77410999,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "SHRI Bashistha Narain Singh",
+    "house": "Rajya Sabha",
+    "state": "Bihar",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 57,
+    "totalAllocated": 77049500,
+    "avgRiskScore": 29
+  },
+  {
+    "mpName": "Kani K Navas",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "RAMANATHAPURAM",
+    "totalWorks": 129,
+    "totalAllocated": 77019844,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "Mahabali Singh",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "KARAKAT",
+    "totalWorks": 119,
+    "totalAllocated": 76999000,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Alok Kumar Suman",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "GOPALGANJ (SC)",
+    "totalWorks": 115,
+    "totalAllocated": 76896330,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Midhun Reddy",
+    "house": "Lok Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "RAJAMPET",
+    "totalWorks": 194,
+    "totalAllocated": 76763000,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "Shri B Y Raghavendra",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "SHIMOGA",
+    "totalWorks": 187,
+    "totalAllocated": 76710000,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "S Gnanathiraviam",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "TIRUNELVELI",
+    "totalWorks": 83,
+    "totalAllocated": 76524400,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Smt Jaya Bachchan",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 187,
+    "totalAllocated": 76481676,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Smt S Jothimani",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "KARUR",
+    "totalWorks": 147,
+    "totalAllocated": 76253000,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "D Ravikumar",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "VILUPPURAM(SC)",
+    "totalWorks": 248,
+    "totalAllocated": 76065000,
+    "avgRiskScore": 52
+  },
+  {
+    "mpName": "SHRI Samir Oraon",
+    "house": "Rajya Sabha",
+    "state": "Jharkhand",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 54,
+    "totalAllocated": 75814000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Mohammad Sadique",
+    "house": "Lok Sabha",
+    "state": "Punjab",
+    "constituency": "FARIDKOT(SC)",
+    "totalWorks": 225,
+    "totalAllocated": 75802000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Shri Amar Singh",
+    "house": "Lok Sabha",
+    "state": "Punjab",
+    "constituency": "FATEHGARH SAHIB(SC)",
+    "totalWorks": 332,
+    "totalAllocated": 75797766,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Smt Pramila Bisoyi",
+    "house": "Lok Sabha",
+    "state": "Odisha",
+    "constituency": "ASKA",
+    "totalWorks": 252,
+    "totalAllocated": 75480000,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Vijay Baghel",
+    "house": "Lok Sabha",
+    "state": "Chhattisgarh",
+    "constituency": "DURG",
+    "totalWorks": 143,
+    "totalAllocated": 75150000,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "Shri Abdul Khaleque",
+    "house": "Lok Sabha",
+    "state": "Assam",
+    "constituency": "BARPETA",
+    "totalWorks": 150,
+    "totalAllocated": 75130000,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "SHRI Jugalsinh Mathurji Lokhandwala",
+    "house": "Rajya Sabha",
+    "state": "Gujarat",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 89,
+    "totalAllocated": 74774544,
+    "avgRiskScore": 40
+  },
+  {
+    "mpName": "Dr . Sumer Singh Solanki",
+    "house": "Rajya Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 87,
+    "totalAllocated": 74454995,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "K Jayakumar",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "TIRUVALLUR(SC)",
+    "totalWorks": 118,
+    "totalAllocated": 74341964,
+    "avgRiskScore": 52
+  },
+  {
+    "mpName": "Mohammad Akbar Lone",
+    "house": "Lok Sabha",
+    "state": "Jammu And Kashmir",
+    "constituency": "BARAMULLAH",
+    "totalWorks": 216,
+    "totalAllocated": 74341930,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "K Subbarayan",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "TIRUPPUR",
+    "totalWorks": 68,
+    "totalAllocated": 73992500,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "Kailash Choudhary",
+    "house": "Lok Sabha",
+    "state": "Rajasthan",
+    "constituency": "BARMER",
+    "totalWorks": 88,
+    "totalAllocated": 73959000,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Manne Srinivas Reddy",
+    "house": "Lok Sabha",
+    "state": "Telangana",
+    "constituency": "MAHABUBNAGAR",
+    "totalWorks": 111,
+    "totalAllocated": 73924360,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Smt Aparajita Sarangi",
+    "house": "Lok Sabha",
+    "state": "Odisha",
+    "constituency": "BHUBANESWAR",
+    "totalWorks": 543,
+    "totalAllocated": 73900000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "SHRI Vivek Thakur",
+    "house": "Rajya Sabha",
+    "state": "Bihar",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 68,
+    "totalAllocated": 73830799,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Shri Jugal Kishore Sharma",
+    "house": "Lok Sabha",
+    "state": "Jammu And Kashmir",
+    "constituency": "JAMMU",
+    "totalWorks": 102,
+    "totalAllocated": 73802000,
+    "avgRiskScore": 60
+  },
+  {
+    "mpName": "Shri Arun Singh",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 35,
+    "totalAllocated": 73534000,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Manish Tewari",
+    "house": "Lok Sabha",
+    "state": "Punjab",
+    "constituency": "ANANDPUR SAHIB",
+    "totalWorks": 233,
+    "totalAllocated": 73533007,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Dr Manmohan Singh",
+    "house": "Rajya Sabha",
+    "state": "Rajasthan",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 60,
+    "totalAllocated": 73500000,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Ms Sushmita Dev",
+    "house": "Rajya Sabha",
+    "state": "West Bengal",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 179,
+    "totalAllocated": 73500000,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Smt Geeta Alias Chandraprabha (SRS)",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 115,
+    "totalAllocated": 73470000,
+    "avgRiskScore": 40
+  },
+  {
+    "mpName": "Smt Phulo Devi Netam",
+    "house": "Rajya Sabha",
+    "state": "Chhattisgarh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 68,
+    "totalAllocated": 73418000,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Smt Renuka Singh Saruta",
+    "house": "Lok Sabha",
+    "state": "Chhattisgarh",
+    "constituency": "SARGUJA(ST)",
+    "totalWorks": 199,
+    "totalAllocated": 73395000,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "SHRI Kirodi Lal",
+    "house": "Rajya Sabha",
+    "state": "Rajasthan",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 120,
+    "totalAllocated": 73363508,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Shri R Girirajan",
+    "house": "Rajya Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 63,
+    "totalAllocated": 73303000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "SHRI S Jaishankar",
+    "house": "Rajya Sabha",
+    "state": "Gujarat",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 15,
+    "totalAllocated": 73240000,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "SHRI Naranbhai J Rathwa",
+    "house": "Rajya Sabha",
+    "state": "Gujarat",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 197,
+    "totalAllocated": 73145000,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "V Srinivas Prasad",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "CHAMARAJANAGAR(SC)",
+    "totalWorks": 122,
+    "totalAllocated": 73000000,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "P C Mohan",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "BANGALORE CENTRAL",
+    "totalWorks": 63,
+    "totalAllocated": 72970547,
+    "avgRiskScore": 38
+  },
+  {
+    "mpName": "Shri Jayant Sinha",
+    "house": "Lok Sabha",
+    "state": "Jharkhand",
+    "constituency": "HAZARIBAGH",
+    "totalWorks": 99,
+    "totalAllocated": 72909700,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Shri Naba (Hira) Kumar Sarania",
+    "house": "Lok Sabha",
+    "state": "Assam",
+    "constituency": "KOKRAJHAR (ST)",
+    "totalWorks": 75,
+    "totalAllocated": 72799313,
+    "avgRiskScore": 50
+  },
+  {
+    "mpName": "Dr. Vijay Kumar Singh (Retd) General",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "GHAZIABAD",
+    "totalWorks": 30,
+    "totalAllocated": 72797900,
+    "avgRiskScore": 47
+  },
+  {
+    "mpName": "Balashowry Vallabbhaneni",
+    "house": "Lok Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "MACHILIPATNAM",
+    "totalWorks": 88,
+    "totalAllocated": 72627000,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "SHRI Dineshchandra Jemalbhai Anavadiya",
+    "house": "Rajya Sabha",
+    "state": "Gujarat",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 141,
+    "totalAllocated": 72500000,
+    "avgRiskScore": 61
+  },
+  {
+    "mpName": "Shri DV Sadananda Gowda",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "BANGALORE NORTH",
+    "totalWorks": 163,
+    "totalAllocated": 72325000,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "Nayab Singh",
+    "house": "Lok Sabha",
+    "state": "Haryana",
+    "constituency": "KURUKSHETRA",
+    "totalWorks": 131,
+    "totalAllocated": 72179493,
+    "avgRiskScore": 52
+  },
+  {
+    "mpName": "Dnv Senthilkumar S",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "DHARAMAPURI",
+    "totalWorks": 101,
+    "totalAllocated": 72030000,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "SHRI Prem Chand Gupta",
+    "house": "Rajya Sabha",
+    "state": "Bihar",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 240,
+    "totalAllocated": 71781157,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Sunita Duggal",
+    "house": "Lok Sabha",
+    "state": "Haryana",
+    "constituency": "SIRSA(SC)",
+    "totalWorks": 200,
+    "totalAllocated": 71775565,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Ashok Kumar Rawat",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "MISRIKH(SC)",
+    "totalWorks": 10,
+    "totalAllocated": 71765900,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Ravi Shankar Prasad",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "PATNA SAHIB",
+    "totalWorks": 121,
+    "totalAllocated": 71598999,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Vishnu Dayal Ram",
+    "house": "Lok Sabha",
+    "state": "Jharkhand",
+    "constituency": "PALAMU(SC)",
+    "totalWorks": 223,
+    "totalAllocated": 71540600,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Sanjay Shamrao Dhotre",
+    "house": "Lok Sabha",
+    "state": "Maharashtra",
+    "constituency": "AKOLA",
+    "totalWorks": 99,
+    "totalAllocated": 71479000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Shri C Ve Shanmugam",
+    "house": "Rajya Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 95,
+    "totalAllocated": 71346000,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Dr Amar Patnaik",
+    "house": "Rajya Sabha",
+    "state": "Odisha",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 107,
+    "totalAllocated": 71318752,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Prof Ram Gopal Yadav",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 33,
+    "totalAllocated": 71122000,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Shri S Kalyanasundaram",
+    "house": "Rajya Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 24,
+    "totalAllocated": 71065000,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "SHRI P Bhattacharya",
+    "house": "Rajya Sabha",
+    "state": "West Bengal",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 60,
+    "totalAllocated": 71000000,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Suresh Kumar Kashyap",
+    "house": "Lok Sabha",
+    "state": "Himachal Pradesh",
+    "constituency": "SHIMLA (SC)",
+    "totalWorks": 370,
+    "totalAllocated": 70539000,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Sh Teli Rameswar",
+    "house": "Lok Sabha",
+    "state": "Assam",
+    "constituency": "DIBRUGARH",
+    "totalWorks": 100,
+    "totalAllocated": 70500000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "SHRI M Shanmugam",
+    "house": "Rajya Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 38,
+    "totalAllocated": 70437000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "SHRI Hishey Lachungpa",
+    "house": "Rajya Sabha",
+    "state": "Sikkim",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 66,
+    "totalAllocated": 70400000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Ashok Kumar Yadav",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "MADHUBANI",
+    "totalWorks": 84,
+    "totalAllocated": 70111502,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Smt Rama Devi",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "SHEOHAR",
+    "totalWorks": 82,
+    "totalAllocated": 70019000,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "SHRI Sushil Kumar Modi",
+    "house": "Rajya Sabha",
+    "state": "Bihar",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 1,
+    "totalAllocated": 70000000,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "Suresh Pujari",
+    "house": "Lok Sabha",
+    "state": "Odisha",
+    "constituency": "BARGARH",
+    "totalWorks": 248,
+    "totalAllocated": 69775247,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Smt Kumari Diya",
+    "house": "Lok Sabha",
+    "state": "Rajasthan",
+    "constituency": "RAJSAMAND",
+    "totalWorks": 104,
+    "totalAllocated": 69227000,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Smt Sarmistha Sethi",
+    "house": "Lok Sabha",
+    "state": "Odisha",
+    "constituency": "JAJPUR(SC)",
+    "totalWorks": 171,
+    "totalAllocated": 69149568,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Shri Mahesh Sahoo",
+    "house": "Lok Sabha",
+    "state": "Odisha",
+    "constituency": "DHENKANAL",
+    "totalWorks": 172,
+    "totalAllocated": 68900000,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Abu Taher Khan",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "MURSHIDABAD",
+    "totalWorks": 16,
+    "totalAllocated": 68885389,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Smt Darshana Singh",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 21,
+    "totalAllocated": 67921931,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Anurag Singh Thakur",
+    "house": "Lok Sabha",
+    "state": "Himachal Pradesh",
+    "constituency": "HAMIRPUR_HP",
+    "totalWorks": 394,
+    "totalAllocated": 67831640,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Kuruva Gorantla Madhav",
+    "house": "Lok Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "HINDUPUR",
+    "totalWorks": 75,
+    "totalAllocated": 67500008,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "Doddaalahalli Kempegowda Suresh",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "BANGALORE RURAL",
+    "totalWorks": 56,
+    "totalAllocated": 67200000,
+    "avgRiskScore": 57
+  },
+  {
+    "mpName": "Annpurna Devi",
+    "house": "Lok Sabha",
+    "state": "Jharkhand",
+    "constituency": "KODARMA",
+    "totalWorks": 247,
+    "totalAllocated": 67023000,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "SHRI Anil Kumar Jain",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 29,
+    "totalAllocated": 66968500,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "SHRI L HANUMANTHAIAH",
+    "house": "Rajya Sabha",
+    "state": "Karnataka",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 127,
+    "totalAllocated": 66589500,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Shri Abhishek Banerjee",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "DIAMOND HARBOUR",
+    "totalWorks": 128,
+    "totalAllocated": 66559226,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "Bishweswar Tudu",
+    "house": "Lok Sabha",
+    "state": "Odisha",
+    "constituency": "MAYURBHANJ (ST)",
+    "totalWorks": 182,
+    "totalAllocated": 66145000,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Santosh Pandey",
+    "house": "Lok Sabha",
+    "state": "Chhattisgarh",
+    "constituency": "RAJNANDGAON",
+    "totalWorks": 144,
+    "totalAllocated": 66100739,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Dilip Saikia",
+    "house": "Lok Sabha",
+    "state": "Assam",
+    "constituency": "MANGALDOI",
+    "totalWorks": 258,
+    "totalAllocated": 66050000,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "M Selvaraj",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "NAGAPATTINAM(SC)",
+    "totalWorks": 70,
+    "totalAllocated": 65676000,
+    "avgRiskScore": 45
+  },
+  {
+    "mpName": "SHRI KC Venugopal",
+    "house": "Rajya Sabha",
+    "state": "Rajasthan",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 29,
+    "totalAllocated": 64800000,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Ramdas Chandrabhanji Tadas",
+    "house": "Lok Sabha",
+    "state": "Maharashtra",
+    "constituency": "WARDHA",
+    "totalWorks": 189,
+    "totalAllocated": 64538459,
+    "avgRiskScore": 22
+  },
+  {
+    "mpName": "Shri Karti P Chidambaram",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "SIVAGANGA",
+    "totalWorks": 127,
+    "totalAllocated": 64405000,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "SHRI N Chandrasegharan",
+    "house": "Rajya Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 76,
+    "totalAllocated": 64335040,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "Shri Surendra Singh Nagar",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 103,
+    "totalAllocated": 64194958,
+    "avgRiskScore": 60
+  },
+  {
+    "mpName": "Thirumaa Valavan Thol",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "CHIDAMBARAM(SC)",
+    "totalWorks": 73,
+    "totalAllocated": 63813600,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Shri Ilaiyaraaja",
+    "house": "Rajya Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "Nominated Rajya Sabha",
+    "totalWorks": 36,
+    "totalAllocated": 63775000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Shyam Singh Yadav",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "JAUNPUR",
+    "totalWorks": 76,
+    "totalAllocated": 63466225,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Smt Gomati Sai",
+    "house": "Lok Sabha",
+    "state": "Chhattisgarh",
+    "constituency": "RAIGARH(ST)",
+    "totalWorks": 84,
+    "totalAllocated": 63210000,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Bhola Singh",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "BULANDSHAHR(SC)",
+    "totalWorks": 337,
+    "totalAllocated": 63077800,
+    "avgRiskScore": 52
+  },
+  {
+    "mpName": "Shri Ryaga Krishnaiah",
+    "house": "Rajya Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 44,
+    "totalAllocated": 62998000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "A Chellakumar",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "KRISHNAGIRI",
+    "totalWorks": 71,
+    "totalAllocated": 62955315,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Pradyut Bordoloi",
+    "house": "Lok Sabha",
+    "state": "Assam",
+    "constituency": "NOWGONG",
+    "totalWorks": 199,
+    "totalAllocated": 62920061,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Rajesh Verma",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "SITAPUR",
+    "totalWorks": 15,
+    "totalAllocated": 62387189,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "SHRI N R Elango",
+    "house": "Rajya Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 15,
+    "totalAllocated": 62070000,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Shri Jasbir Singh",
+    "house": "Lok Sabha",
+    "state": "Punjab",
+    "constituency": "KHADOOR SAHIB",
+    "totalWorks": 133,
+    "totalAllocated": 61323286,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "SHRI Kanakamedala Ravindra Kumar",
+    "house": "Rajya Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 60,
+    "totalAllocated": 60741915,
+    "avgRiskScore": 64
+  },
+  {
+    "mpName": "Mahesh Jethmalani (Nominated Rajya Sabha)",
+    "house": "Rajya Sabha",
+    "state": "Delhi",
+    "constituency": "Nominated Rajya Sabha",
+    "totalWorks": 71,
+    "totalAllocated": 60600000,
+    "avgRiskScore": 37
+  },
+  {
+    "mpName": "Sunil Soren",
+    "house": "Lok Sabha",
+    "state": "Jharkhand",
+    "constituency": "DUMKA(ST)",
+    "totalWorks": 225,
+    "totalAllocated": 60550000,
+    "avgRiskScore": 52
+  },
+  {
+    "mpName": "Anubhav Mohanty",
+    "house": "Lok Sabha",
+    "state": "Odisha",
+    "constituency": "KENDRAPARA",
+    "totalWorks": 85,
+    "totalAllocated": 60338000,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Shri Vivek K Tankha",
+    "house": "Rajya Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 193,
+    "totalAllocated": 59960129,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Bhagwanth Khuba",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "BIDAR",
+    "totalWorks": 183,
+    "totalAllocated": 59913000,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Ramprit Mandal",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "JHANJHARPUR",
+    "totalWorks": 70,
+    "totalAllocated": 58713750,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Prof Saugata Roy",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "DUM DUM",
+    "totalWorks": 53,
+    "totalAllocated": 58700900,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "SHRI B L Verma",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 263,
+    "totalAllocated": 58070400,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Pashupati Nath Singh",
+    "house": "Lok Sabha",
+    "state": "Jharkhand",
+    "constituency": "DHANBAD",
+    "totalWorks": 222,
+    "totalAllocated": 57558332,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Ashwini Kumar Choubey",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "BUXAR",
+    "totalWorks": 72,
+    "totalAllocated": 57395400,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Dr Shashi Tharoor",
+    "house": "Lok Sabha",
+    "state": "Kerala",
+    "constituency": "THIRUVANANTHAPURAM",
+    "totalWorks": 119,
+    "totalAllocated": 56868487,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Smt Ramilaben Bara",
+    "house": "Rajya Sabha",
+    "state": "Gujarat",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 291,
+    "totalAllocated": 56700000,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Ramakant Bhargava",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "VIDISHA",
+    "totalWorks": 184,
+    "totalAllocated": 56655184,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Saptagiri Sankar Ulaka",
+    "house": "Lok Sabha",
+    "state": "Odisha",
+    "constituency": "KORAPUT(ST)",
+    "totalWorks": 169,
+    "totalAllocated": 56550000,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "SHRI Sujeet Kumar",
+    "house": "Rajya Sabha",
+    "state": "Odisha",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 98,
+    "totalAllocated": 55950000,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Smt Rajashree Mallick",
+    "house": "Lok Sabha",
+    "state": "Odisha",
+    "constituency": "JAGATSINGHPUR(SC)",
+    "totalWorks": 183,
+    "totalAllocated": 55800000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Pallab Lochan Das",
+    "house": "Lok Sabha",
+    "state": "Assam",
+    "constituency": "TEZPUR",
+    "totalWorks": 101,
+    "totalAllocated": 55750000,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "SHRI Ayodhya Rami Reddy Alla",
+    "house": "Rajya Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 51,
+    "totalAllocated": 55060000,
+    "avgRiskScore": 36
+  },
+  {
+    "mpName": "Shri Prince Raj",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "SAMASTIPUR(SC)",
+    "totalWorks": 57,
+    "totalAllocated": 54554600,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Sanjay Seth",
+    "house": "Lok Sabha",
+    "state": "Jharkhand",
+    "constituency": "RANCHI",
+    "totalWorks": 83,
+    "totalAllocated": 54532300,
+    "avgRiskScore": 52
+  },
+  {
+    "mpName": "Chandra Prakash Joshi",
+    "house": "Lok Sabha",
+    "state": "Rajasthan",
+    "constituency": "CHITTORGARH",
+    "totalWorks": 147,
+    "totalAllocated": 54480000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "vijay kumar",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "GAYA (SC)",
+    "totalWorks": 65,
+    "totalAllocated": 53816600,
+    "avgRiskScore": 52
+  },
+  {
+    "mpName": "Shri Narendra Modi",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "VARANASI",
+    "totalWorks": 126,
+    "totalAllocated": 53701166,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Dr Kakoli Ghosh Dastidar",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "BARASAT",
+    "totalWorks": 51,
+    "totalAllocated": 53405548,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "MK Vishnu Prasad",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "ARANI",
+    "totalWorks": 113,
+    "totalAllocated": 53155000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Chhedi Paswan",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "SASARAM(SC)",
+    "totalWorks": 89,
+    "totalAllocated": 53054647,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Adv Adoor Prakash",
+    "house": "Lok Sabha",
+    "state": "Kerala",
+    "constituency": "ATTINGAL",
+    "totalWorks": 166,
+    "totalAllocated": 52913953,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Rajvir Diler",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "HATHRAS (SC)",
+    "totalWorks": 31,
+    "totalAllocated": 52563400,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "Shatrughan Sinha",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "ASANSOL",
+    "totalWorks": 60,
+    "totalAllocated": 52510000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Narayana Swamy Abbaiah",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "CHITRADURGA(SC)",
+    "totalWorks": 94,
+    "totalAllocated": 52400000,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "Shri Chandra Sekhar Sahu",
+    "house": "Lok Sabha",
+    "state": "Odisha",
+    "constituency": "BERHAMPUR",
+    "totalWorks": 148,
+    "totalAllocated": 52284728,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "Manickam Tagore B",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "VIRUDHUNAGAR",
+    "totalWorks": 70,
+    "totalAllocated": 51916000,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Mala Roy",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "KOLKATA DAKSHIN",
+    "totalWorks": 40,
+    "totalAllocated": 51797000,
+    "avgRiskScore": 31
+  },
+  {
+    "mpName": "SHRI Deepak Prakash",
+    "house": "Rajya Sabha",
+    "state": "Jharkhand",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 49,
+    "totalAllocated": 51680236,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Chunni lal Sahu",
+    "house": "Lok Sabha",
+    "state": "Chhattisgarh",
+    "constituency": "MAHASAMUND",
+    "totalWorks": 93,
+    "totalAllocated": 51530533,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "SHRI Shaktisinh Gohil",
+    "house": "Rajya Sabha",
+    "state": "Gujarat",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 122,
+    "totalAllocated": 51525000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Shri Javed Ali Khan",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 123,
+    "totalAllocated": 51488200,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Shri Aditya Prasad",
+    "house": "Rajya Sabha",
+    "state": "Jharkhand",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 67,
+    "totalAllocated": 51348000,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Shri Arun Kumar Sagar",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "SHAHJAHANPUR(SC)",
+    "totalWorks": 318,
+    "totalAllocated": 51331700,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Shri Sunny Deol",
+    "house": "Lok Sabha",
+    "state": "Punjab",
+    "constituency": "GURDASPUR",
+    "totalWorks": 139,
+    "totalAllocated": 51300000,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Gaurav Gogoi",
+    "house": "Lok Sabha",
+    "state": "Assam",
+    "constituency": "KALIABOR",
+    "totalWorks": 220,
+    "totalAllocated": 50910000,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "Sushil Kumar Rinku",
+    "house": "Lok Sabha",
+    "state": "Punjab",
+    "constituency": "JALANDHAR(SC)",
+    "totalWorks": 110,
+    "totalAllocated": 50613691,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "SHRI Ram Nath Thakur",
+    "house": "Rajya Sabha",
+    "state": "Bihar",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 75,
+    "totalAllocated": 50153450,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Rajdeep Roy",
+    "house": "Lok Sabha",
+    "state": "Assam",
+    "constituency": "SILCHAR",
+    "totalWorks": 109,
+    "totalAllocated": 49998800,
+    "avgRiskScore": 52
+  },
+  {
+    "mpName": "Shri Subhash Chandra Baheria",
+    "house": "Lok Sabha",
+    "state": "Rajasthan",
+    "constituency": "BHILWARA",
+    "totalWorks": 131,
+    "totalAllocated": 49755012,
+    "avgRiskScore": 36
+  },
+  {
+    "mpName": "Dileshwar Kamait",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "SUPAUL",
+    "totalWorks": 47,
+    "totalAllocated": 49672701,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Shri Khiru Mahto",
+    "house": "Rajya Sabha",
+    "state": "Bihar",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 125,
+    "totalAllocated": 49600000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Shri Jaggesh",
+    "house": "Rajya Sabha",
+    "state": "Karnataka",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 93,
+    "totalAllocated": 49500000,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "Smt Sulata Deo",
+    "house": "Rajya Sabha",
+    "state": "Odisha",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 68,
+    "totalAllocated": 49400000,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "SHRI Rajendra Gehlot",
+    "house": "Rajya Sabha",
+    "state": "Rajasthan",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 66,
+    "totalAllocated": 49370001,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "SHRI K Vanlalvena",
+    "house": "Rajya Sabha",
+    "state": "Mizoram",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 78,
+    "totalAllocated": 49000000,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Smt S Phangnon Konyak",
+    "house": "Rajya Sabha",
+    "state": "Nagaland",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 11,
+    "totalAllocated": 49000000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Nabam Rebia (SRS)",
+    "house": "Rajya Sabha",
+    "state": "Arunachal Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 32,
+    "totalAllocated": 49000000,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Shri Tokheho",
+    "house": "Lok Sabha",
+    "state": "Nagaland",
+    "constituency": "NAGALAND",
+    "totalWorks": 15,
+    "totalAllocated": 49000000,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "Smt Shanta Chhetri",
+    "house": "Rajya Sabha",
+    "state": "West Bengal",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 142,
+    "totalAllocated": 49000000,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Miss Dola Sen",
+    "house": "Rajya Sabha",
+    "state": "West Bengal",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 1,
+    "totalAllocated": 49000000,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "SHRI Ramji",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 147,
+    "totalAllocated": 48959000,
+    "avgRiskScore": 45
+  },
+  {
+    "mpName": "Sudarshan Bhagat",
+    "house": "Lok Sabha",
+    "state": "Jharkhand",
+    "constituency": "LOHARDAGA(ST)",
+    "totalWorks": 51,
+    "totalAllocated": 48953400,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Dr Kanimozhi NVN Somu",
+    "house": "Rajya Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 52,
+    "totalAllocated": 48950500,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Girish Chandra",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "NAGINA(SC)",
+    "totalWorks": 182,
+    "totalAllocated": 48767600,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Ms Mimi Chakraborty",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "JADAVPUR",
+    "totalWorks": 106,
+    "totalAllocated": 48740188,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Shri Mithilesh Kumar",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 192,
+    "totalAllocated": 48713000,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Mahant Balak Nath Yogi",
+    "house": "Lok Sabha",
+    "state": "Rajasthan",
+    "constituency": "ALWAR",
+    "totalWorks": 90,
+    "totalAllocated": 48313000,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "Sukhbir Singh Jaunapuria",
+    "house": "Lok Sabha",
+    "state": "Rajasthan",
+    "constituency": "TONK-SAWAI MADHOPUR",
+    "totalWorks": 113,
+    "totalAllocated": 48050000,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "Satyadev Pachauri",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "KANPUR",
+    "totalWorks": 23,
+    "totalAllocated": 48002308,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Naresh Bansal (SRS)",
+    "house": "Rajya Sabha",
+    "state": "Uttarakhand",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 55,
+    "totalAllocated": 47956500,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Annasaheb Shankar Jolle",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "CHIKKODI",
+    "totalWorks": 103,
+    "totalAllocated": 47950000,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "Ms Kavita Patidar",
+    "house": "Rajya Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 85,
+    "totalAllocated": 47911500,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Sudip Bandyopadhyay",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "KOLKATA UTTAR",
+    "totalWorks": 43,
+    "totalAllocated": 47785210,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Prof SP Singh Baghel",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "AGRA(SC)",
+    "totalWorks": 31,
+    "totalAllocated": 47688700,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Gowdar Mallikarjunappa Siddeshwara",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "DAVANAGERE",
+    "totalWorks": 69,
+    "totalAllocated": 47450000,
+    "avgRiskScore": 33
+  },
+  {
+    "mpName": "Shri Dharambir Singh",
+    "house": "Lok Sabha",
+    "state": "Haryana",
+    "constituency": "BHIWANI MAHENDRAGARH",
+    "totalWorks": 115,
+    "totalAllocated": 47288000,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Hasmukh Bhai Soma Bhai Patel",
+    "house": "Lok Sabha",
+    "state": "Gujarat",
+    "constituency": "AHMEDABAD EAST",
+    "totalWorks": 63,
+    "totalAllocated": 47275000,
+    "avgRiskScore": 36
+  },
+  {
+    "mpName": "Shri Nalin Kumar Kateel",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "DAKSHINA KANNADA",
+    "totalWorks": 63,
+    "totalAllocated": 47100000,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "Vincent H Pala",
+    "house": "Lok Sabha",
+    "state": "Meghalaya",
+    "constituency": "SHILLONG",
+    "totalWorks": 148,
+    "totalAllocated": 47050000,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Mukesh Rajput",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "FARRUKHABAD",
+    "totalWorks": 215,
+    "totalAllocated": 46815456,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Shri Shambhu Sharan Patel",
+    "house": "Rajya Sabha",
+    "state": "Bihar",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 38,
+    "totalAllocated": 46555572,
+    "avgRiskScore": 60
+  },
+  {
+    "mpName": "Bheemrao Baswanthrao Patil",
+    "house": "Lok Sabha",
+    "state": "Telangana",
+    "constituency": "ZAHIRABAD",
+    "totalWorks": 229,
+    "totalAllocated": 46463000,
+    "avgRiskScore": 22
+  },
+  {
+    "mpName": "SHRI K T S Tulsi",
+    "house": "Rajya Sabha",
+    "state": "Chhattisgarh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 59,
+    "totalAllocated": 46410000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "K Shanmuga Sundaram",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "POLLACHI",
+    "totalWorks": 78,
+    "totalAllocated": 46214350,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "SHRI Digvijay Singh",
+    "house": "Rajya Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 108,
+    "totalAllocated": 46205988,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Smt Ranjanben Dhananjay Bhatt",
+    "house": "Lok Sabha",
+    "state": "Gujarat",
+    "constituency": "VADODARA",
+    "totalWorks": 54,
+    "totalAllocated": 45998035,
+    "avgRiskScore": 43
+  },
+  {
+    "mpName": "Dr Sikander Kumar",
+    "house": "Rajya Sabha",
+    "state": "Himachal Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 131,
+    "totalAllocated": 45259153,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Sumedhanand Saraswati",
+    "house": "Lok Sabha",
+    "state": "Rajasthan",
+    "constituency": "SIKAR",
+    "totalWorks": 64,
+    "totalAllocated": 45151000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "SHRI Kamakhya Prasad Tasa",
+    "house": "Rajya Sabha",
+    "state": "Assam",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 44,
+    "totalAllocated": 45015000,
+    "avgRiskScore": 60
+  },
+  {
+    "mpName": "Jyotsna Charandas Mahant",
+    "house": "Lok Sabha",
+    "state": "Chhattisgarh",
+    "constituency": "KORBA",
+    "totalWorks": 97,
+    "totalAllocated": 44760000,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "Feroze Varun Gandhi",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "PILIBHIT",
+    "totalWorks": 88,
+    "totalAllocated": 44036900,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "SHRI Narayana Koragappa",
+    "house": "Rajya Sabha",
+    "state": "Karnataka",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 46,
+    "totalAllocated": 43700000,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "SHRI Kailash Soni",
+    "house": "Rajya Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 112,
+    "totalAllocated": 43375000,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Shri Kapil Sibal",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 29,
+    "totalAllocated": 43355855,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Ramulu Pothuganti",
+    "house": "Lok Sabha",
+    "state": "Telangana",
+    "constituency": "NAGARKURNOOL(SC)",
+    "totalWorks": 113,
+    "totalAllocated": 43350000,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "SHRI S Selvaganabathy",
+    "house": "Rajya Sabha",
+    "state": "Puducherry",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 17,
+    "totalAllocated": 43216000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Shri Krishan Lal Panwar",
+    "house": "Rajya Sabha",
+    "state": "Haryana",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 53,
+    "totalAllocated": 43200000,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "Ravneet Singh",
+    "house": "Lok Sabha",
+    "state": "Punjab",
+    "constituency": "LUDHIANA",
+    "totalWorks": 136,
+    "totalAllocated": 43188630,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Narendra Kumar",
+    "house": "Lok Sabha",
+    "state": "Rajasthan",
+    "constituency": "JHUNJHUNU",
+    "totalWorks": 65,
+    "totalAllocated": 42907000,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Smt Sangeeta Yadav",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 7,
+    "totalAllocated": 42894000,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Deepak Baij",
+    "house": "Lok Sabha",
+    "state": "Chhattisgarh",
+    "constituency": "BASTAR(ST)",
+    "totalWorks": 80,
+    "totalAllocated": 42751000,
+    "avgRiskScore": 52
+  },
+  {
+    "mpName": "SR Parthiban",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "SALEM",
+    "totalWorks": 43,
+    "totalAllocated": 42460000,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "CN Annadurai",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "TIRUVANNAMALAI",
+    "totalWorks": 100,
+    "totalAllocated": 42195000,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "C Lalrosanga",
+    "house": "Lok Sabha",
+    "state": "Mizoram",
+    "constituency": "MIZORAM (ST)",
+    "totalWorks": 41,
+    "totalAllocated": 42100000,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "Gulam Ali (NRS)",
+    "house": "Rajya Sabha",
+    "state": "Jammu And Kashmir",
+    "constituency": "Nominated Rajya Sabha",
+    "totalWorks": 142,
+    "totalAllocated": 42006004,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Ms Chandrani Murmu",
+    "house": "Lok Sabha",
+    "state": "Odisha",
+    "constituency": "KEONJHAR(ST)",
+    "totalWorks": 113,
+    "totalAllocated": 41790000,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Ram Shakal (NRS)",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Nominated Rajya Sabha",
+    "totalWorks": 43,
+    "totalAllocated": 41725000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Anurag Sharma",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "JHANSI",
+    "totalWorks": 70,
+    "totalAllocated": 41688000,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Shri V Vijayasai Reddy",
+    "house": "Rajya Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 36,
+    "totalAllocated": 41650000,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "Shri Mukul Balkrishna Wasnik",
+    "house": "Rajya Sabha",
+    "state": "Rajasthan",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 29,
+    "totalAllocated": 41461200,
+    "avgRiskScore": 36
+  },
+  {
+    "mpName": "Shri Sant Balbir Singh",
+    "house": "Rajya Sabha",
+    "state": "Punjab",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 60,
+    "totalAllocated": 41454287,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "Manoj Rajoria",
+    "house": "Lok Sabha",
+    "state": "Rajasthan",
+    "constituency": "KARAULI-DHOLPUR(SC)",
+    "totalWorks": 142,
+    "totalAllocated": 41434290,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Shri Gurjeet Singh Aujla",
+    "house": "Lok Sabha",
+    "state": "Punjab",
+    "constituency": "AMRITSAR",
+    "totalWorks": 97,
+    "totalAllocated": 40760500,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "Smt Seema Dwivedi",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 68,
+    "totalAllocated": 40534287,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Smt Pratibha Singh",
+    "house": "Lok Sabha",
+    "state": "Himachal Pradesh",
+    "constituency": "MANDI",
+    "totalWorks": 210,
+    "totalAllocated": 40421246,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Pradan Baruah",
+    "house": "Lok Sabha",
+    "state": "Assam",
+    "constituency": "LAKHIMPUR",
+    "totalWorks": 91,
+    "totalAllocated": 40150000,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Shri Satish Chandra Dubey",
+    "house": "Rajya Sabha",
+    "state": "Bihar",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 38,
+    "totalAllocated": 40092799,
+    "avgRiskScore": 60
+  },
+  {
+    "mpName": "Sanjay Kumar Bandi",
+    "house": "Lok Sabha",
+    "state": "Telangana",
+    "constituency": "KARIMNAGAR",
+    "totalWorks": 88,
+    "totalAllocated": 39687000,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Narendra Singh Tomar",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "MORENA",
+    "totalWorks": 58,
+    "totalAllocated": 39364464,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Janardan Mishra",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "REWA",
+    "totalWorks": 89,
+    "totalAllocated": 39012055,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Rahul Gandhi",
+    "house": "Lok Sabha",
+    "state": "Kerala",
+    "constituency": "WAYANAD",
+    "totalWorks": 21,
+    "totalAllocated": 38975000,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "Dr Ashok Bajpai",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 35,
+    "totalAllocated": 38803000,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Dr Sasmit Patra",
+    "house": "Rajya Sabha",
+    "state": "Odisha",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 36,
+    "totalAllocated": 38400000,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Niranjan Jyoti",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "FATEHPUR",
+    "totalWorks": 28,
+    "totalAllocated": 38171000,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Rakesh Singh",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "JABALPUR",
+    "totalWorks": 119,
+    "totalAllocated": 38145700,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "SHRI. Jyotiraditya M. Scindia",
+    "house": "Rajya Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 2,
+    "totalAllocated": 37877000,
+    "avgRiskScore": 43
+  },
+  {
+    "mpName": "P Raveendranath Kumar",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "THENI",
+    "totalWorks": 35,
+    "totalAllocated": 37517000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Shri P Chidambaram",
+    "house": "Rajya Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 7,
+    "totalAllocated": 37500000,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Prajwal Revanna",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "HASSAN",
+    "totalWorks": 107,
+    "totalAllocated": 37250000,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Shri Kunwar Danish Ali",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "AMROHA",
+    "totalWorks": 187,
+    "totalAllocated": 36962800,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "Sunil Dattatray Tatkare",
+    "house": "Lok Sabha",
+    "state": "Maharashtra",
+    "constituency": "RAIGAD",
+    "totalWorks": 26,
+    "totalAllocated": 36900000,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "SHRI Amin Narhari",
+    "house": "Rajya Sabha",
+    "state": "Gujarat",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 35,
+    "totalAllocated": 36700000,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Vijay Kumar Hansdak",
+    "house": "Lok Sabha",
+    "state": "Jharkhand",
+    "constituency": "RAJMAHAL(ST)",
+    "totalWorks": 213,
+    "totalAllocated": 36518000,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Dr K Laxman",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 90,
+    "totalAllocated": 36325000,
+    "avgRiskScore": 52
+  },
+  {
+    "mpName": "Sudhakar Tukaram Shrangre",
+    "house": "Lok Sabha",
+    "state": "Maharashtra",
+    "constituency": "LATUR(SC)",
+    "totalWorks": 46,
+    "totalAllocated": 36151000,
+    "avgRiskScore": 60
+  },
+  {
+    "mpName": "Baburam Nishad (SRS)",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 132,
+    "totalAllocated": 36042215,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Maulana Ajmal Badruddin",
+    "house": "Lok Sabha",
+    "state": "Assam",
+    "constituency": "DHUBRI",
+    "totalWorks": 69,
+    "totalAllocated": 35605360,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "Shri Rajmohan Unnithan",
+    "house": "Lok Sabha",
+    "state": "Kerala",
+    "constituency": "KASARAGOD",
+    "totalWorks": 42,
+    "totalAllocated": 35457093,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "Dayakar Pasunoori",
+    "house": "Lok Sabha",
+    "state": "Telangana",
+    "constituency": "WARANGEL(SC)",
+    "totalWorks": 109,
+    "totalAllocated": 35425000,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Shri Dulal Chandra Goswami",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "KATIHAR",
+    "totalWorks": 41,
+    "totalAllocated": 35258000,
+    "avgRiskScore": 22
+  },
+  {
+    "mpName": "Smt Mangal Suresh Angadi",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "BELGAUM",
+    "totalWorks": 66,
+    "totalAllocated": 35100000,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "Kanakmal Katara",
+    "house": "Lok Sabha",
+    "state": "Rajasthan",
+    "constituency": "BANSWARA(ST)",
+    "totalWorks": 46,
+    "totalAllocated": 35080000,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Vaithilingam Ve",
+    "house": "Lok Sabha",
+    "state": "Puducherry",
+    "constituency": "Puducherry",
+    "totalWorks": 21,
+    "totalAllocated": 34950000,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Sonal Mansingh (NRS)",
+    "house": "Rajya Sabha",
+    "state": "Gujarat",
+    "constituency": "Nominated Rajya Sabha",
+    "totalWorks": 31,
+    "totalAllocated": 34768000,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Pinaki Misra",
+    "house": "Lok Sabha",
+    "state": "Odisha",
+    "constituency": "PURI",
+    "totalWorks": 96,
+    "totalAllocated": 34464000,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "Dr Chandra Sen Jadon",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "FIROZABAD",
+    "totalWorks": 24,
+    "totalAllocated": 34414051,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Dr Faiyaz Ahmad",
+    "house": "Rajya Sabha",
+    "state": "Bihar",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 27,
+    "totalAllocated": 34400000,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Sunil Kumar Singh",
+    "house": "Lok Sabha",
+    "state": "Jharkhand",
+    "constituency": "CHATRA",
+    "totalWorks": 11,
+    "totalAllocated": 34203401,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Arvind Ganpat Sawant",
+    "house": "Lok Sabha",
+    "state": "Maharashtra",
+    "constituency": "MUMBAI SOUTH",
+    "totalWorks": 17,
+    "totalAllocated": 34100000,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Vanga Geetha Viswanath",
+    "house": "Lok Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "KAKINADA",
+    "totalWorks": 40,
+    "totalAllocated": 34080412,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "Rajkumar Chahar",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "FATEHPUR SIKRI",
+    "totalWorks": 25,
+    "totalAllocated": 34057500,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Dr Mahendrabhai Munjapara",
+    "house": "Lok Sabha",
+    "state": "Gujarat",
+    "constituency": "SURENDRANAGAR",
+    "totalWorks": 74,
+    "totalAllocated": 33525000,
+    "avgRiskScore": 60
+  },
+  {
+    "mpName": "Smt Hema Malini",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "MATHURA",
+    "totalWorks": 34,
+    "totalAllocated": 33245000,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Chaudhary Mehboob Ali Kaiser",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "KHAGARIA",
+    "totalWorks": 95,
+    "totalAllocated": 33009604,
+    "avgRiskScore": 36
+  },
+  {
+    "mpName": "Dhanush M Kumar",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "TENKASI(SC)",
+    "totalWorks": 72,
+    "totalAllocated": 32842500,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "BP Saroj Bholanath",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "MACHHLISHAHR(SC)",
+    "totalWorks": 230,
+    "totalAllocated": 32524050,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Kalyan Banerjee",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "SREERAMPUR",
+    "totalWorks": 51,
+    "totalAllocated": 32178440,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Gautam Gambhir",
+    "house": "Lok Sabha",
+    "state": "Delhi",
+    "constituency": "EAST DELHI",
+    "totalWorks": 1,
+    "totalAllocated": 32000000,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Shri Kunar Hembram",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "JHARGRAM(ST)",
+    "totalWorks": 8,
+    "totalAllocated": 31999994,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Seyed Tufail Hasan",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "MORADABAD",
+    "totalWorks": 129,
+    "totalAllocated": 31838199,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Malook Nagar",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "BIJNOR",
+    "totalWorks": 43,
+    "totalAllocated": 31606000,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "Ajay Nishad",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "MUZAFFARPUR",
+    "totalWorks": 49,
+    "totalAllocated": 31418100,
+    "avgRiskScore": 52
+  },
+  {
+    "mpName": "Pralhad Venkatesh Joshi",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "DHARWAD",
+    "totalWorks": 63,
+    "totalAllocated": 31100000,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "SHRI Birendra Prasad Baishya",
+    "house": "Rajya Sabha",
+    "state": "Assam",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 22,
+    "totalAllocated": 31050000,
+    "avgRiskScore": 36
+  },
+  {
+    "mpName": "Dr Fauzia Tahseen Ahmed Khan",
+    "house": "Rajya Sabha",
+    "state": "Maharashtra",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 24,
+    "totalAllocated": 30998840,
+    "avgRiskScore": 36
+  },
+  {
+    "mpName": "Kishan Kapoor",
+    "house": "Lok Sabha",
+    "state": "Himachal Pradesh",
+    "constituency": "KANGRA",
+    "totalWorks": 102,
+    "totalAllocated": 30713000,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Kaushal Kishore",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "MOHANLALGANJ(SC)",
+    "totalWorks": 35,
+    "totalAllocated": 30248400,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Kirit Premjibhai Solanki",
+    "house": "Lok Sabha",
+    "state": "Gujarat",
+    "constituency": "AHMEDABAD WEST(SC)",
+    "totalWorks": 83,
+    "totalAllocated": 30128451,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "Smt Manjulata Mandal",
+    "house": "Lok Sabha",
+    "state": "Odisha",
+    "constituency": "BHADRAK(SC)",
+    "totalWorks": 85,
+    "totalAllocated": 30000000,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Smt Sumitra Balmik",
+    "house": "Rajya Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 24,
+    "totalAllocated": 29086000,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "SHRI Harbhajan Singh",
+    "house": "Rajya Sabha",
+    "state": "Punjab",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 23,
+    "totalAllocated": 28754200,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Amol Ramsing Kolhe",
+    "house": "Lok Sabha",
+    "state": "Maharashtra",
+    "constituency": "SHIRUR",
+    "totalWorks": 23,
+    "totalAllocated": 27800000,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Smt. Mahua Maji",
+    "house": "Rajya Sabha",
+    "state": "Jharkhand",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 58,
+    "totalAllocated": 27749400,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Smt Satabdi Roy (Banerjee)",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "BIRBHUM",
+    "totalWorks": 19,
+    "totalAllocated": 27305733,
+    "avgRiskScore": 22
+  },
+  {
+    "mpName": "Sadhvi Pragya Singh Thakur",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "BHOPAL",
+    "totalWorks": 79,
+    "totalAllocated": 27151054,
+    "avgRiskScore": 22
+  },
+  {
+    "mpName": "Vikramjit Singh Sahney (Rajya Sabha)",
+    "house": "Rajya Sabha",
+    "state": "Punjab",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 10,
+    "totalAllocated": 27116000,
+    "avgRiskScore": 47
+  },
+  {
+    "mpName": "Shri Arjun Munda",
+    "house": "Lok Sabha",
+    "state": "Jharkhand",
+    "constituency": "KHUNTI(ST)",
+    "totalWorks": 76,
+    "totalAllocated": 26435000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Dr Radha Mohan Das Agarwal",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 5,
+    "totalAllocated": 26364000,
+    "avgRiskScore": 22
+  },
+  {
+    "mpName": "Vivek Narayan Shejwalkar",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "GWALIOR",
+    "totalWorks": 21,
+    "totalAllocated": 26305950,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "Rajveer Raju Bhaiya Singh",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "ETAH",
+    "totalWorks": 43,
+    "totalAllocated": 26300800,
+    "avgRiskScore": 60
+  },
+  {
+    "mpName": "Guharam Ajgalley",
+    "house": "Lok Sabha",
+    "state": "Chhattisgarh",
+    "constituency": "JANJGIR CHAMPA(SC)",
+    "totalWorks": 70,
+    "totalAllocated": 26190000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "SHRI Binoy Viswam",
+    "house": "Rajya Sabha",
+    "state": "Kerala",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 6,
+    "totalAllocated": 25901293,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "SH G V L Narasimha Rao",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 18,
+    "totalAllocated": 25153262,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "Vinayak Bhaurao Raut",
+    "house": "Lok Sabha",
+    "state": "Maharashtra",
+    "constituency": "RATNAGIRI-SINDHUDURG",
+    "totalWorks": 28,
+    "totalAllocated": 24939000,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Gajendra Singh Patel",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "KHARGONE(ST)",
+    "totalWorks": 57,
+    "totalAllocated": 24770000,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Guman Singh Damor",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "RATLAM(ST)",
+    "totalWorks": 25,
+    "totalAllocated": 24310305,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Rajnath Singh",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "LUCKNOW",
+    "totalWorks": 26,
+    "totalAllocated": 24302000,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Nama Nageswara Rao",
+    "house": "Lok Sabha",
+    "state": "Telangana",
+    "constituency": "KHAMMAM",
+    "totalWorks": 53,
+    "totalAllocated": 23880000,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "PR Natarajan",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "COIMBATORE",
+    "totalWorks": 14,
+    "totalAllocated": 23530000,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "Atul Kumar Singh",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "GHOSI",
+    "totalWorks": 19,
+    "totalAllocated": 22820000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "SHRI H D Devegowda",
+    "house": "Rajya Sabha",
+    "state": "Karnataka",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 50,
+    "totalAllocated": 22575000,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Smt Keshari Devi Patel",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "PHULPUR",
+    "totalWorks": 67,
+    "totalAllocated": 21603800,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "SHRI Jose K Mani",
+    "house": "Rajya Sabha",
+    "state": "Kerala",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 23,
+    "totalAllocated": 21480000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Nitin Jairam Gadkari",
+    "house": "Lok Sabha",
+    "state": "Maharashtra",
+    "constituency": "NAGPUR",
+    "totalWorks": 11,
+    "totalAllocated": 21449200,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Shankar Lalwani",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "INDORE",
+    "totalWorks": 55,
+    "totalAllocated": 21401000,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Smt Mamata Mohanta",
+    "house": "Rajya Sabha",
+    "state": "Odisha",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 31,
+    "totalAllocated": 21200000,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Shri Jayant Chaudhary",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 9,
+    "totalAllocated": 21200000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Mala Rajya Laxmi Shah",
+    "house": "Lok Sabha",
+    "state": "Uttarakhand",
+    "constituency": "TEHRI GARHWAL",
+    "totalWorks": 203,
+    "totalAllocated": 21190006,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Kum Agatha K Sangma",
+    "house": "Lok Sabha",
+    "state": "Meghalaya",
+    "constituency": "TURA",
+    "totalWorks": 89,
+    "totalAllocated": 20700000,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Kishan Reddy Gangapuram",
+    "house": "Lok Sabha",
+    "state": "Telangana",
+    "constituency": "SECUNDERABAD",
+    "totalWorks": 12,
+    "totalAllocated": 20680000,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "Bharti Pravin Pawar",
+    "house": "Lok Sabha",
+    "state": "Maharashtra",
+    "constituency": "DINDORI(ST)",
+    "totalWorks": 20,
+    "totalAllocated": 20307000,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Shri Ghanshyam Tiwari",
+    "house": "Rajya Sabha",
+    "state": "Rajasthan",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 17,
+    "totalAllocated": 20214000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Smt Sajda Ahmed",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "ULUBERIA",
+    "totalWorks": 65,
+    "totalAllocated": 20166000,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "SHRI Wanweiroy Kharlukhi",
+    "house": "Rajya Sabha",
+    "state": "Meghalaya",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 29,
+    "totalAllocated": 19950000,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "Shri Haji Fazlur Rehman",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "SAHARANPUR",
+    "totalWorks": 19,
+    "totalAllocated": 19603459,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "Prahlad Singh Patel",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "DAMOH",
+    "totalWorks": 53,
+    "totalAllocated": 19501044,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "SHRI Ashwini Vaishnaw",
+    "house": "Rajya Sabha",
+    "state": "Odisha",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 32,
+    "totalAllocated": 19400000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Shri Mohanbhai Kalyanji Kundariya",
+    "house": "Lok Sabha",
+    "state": "Gujarat",
+    "constituency": "RAJKOT",
+    "totalWorks": 23,
+    "totalAllocated": 19357000,
+    "avgRiskScore": 26
+  },
+  {
+    "mpName": "Shri Vinod Kumar Sonkar",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "KAUSHAMBI(SC)",
+    "totalWorks": 38,
+    "totalAllocated": 19115490,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "SHRI Iranna Kadadi",
+    "house": "Rajya Sabha",
+    "state": "Karnataka",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 28,
+    "totalAllocated": 19000000,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "SHRI Vaiko",
+    "house": "Rajya Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 18,
+    "totalAllocated": 18949962,
+    "avgRiskScore": 45
+  },
+  {
+    "mpName": "Akshaibar Lal",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "BAHRAICH(SC)",
+    "totalWorks": 11,
+    "totalAllocated": 18440384,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Sangam Lal Gupta",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "PRATAPGARH",
+    "totalWorks": 87,
+    "totalAllocated": 18295895,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Mahendra Singh Solanky",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "DEWAS(SC)",
+    "totalWorks": 36,
+    "totalAllocated": 18025000,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "Parvatagouda Chandanagouda Gaddigoudar",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "BAGALKOT",
+    "totalWorks": 35,
+    "totalAllocated": 18000000,
+    "avgRiskScore": 61
+  },
+  {
+    "mpName": "SHRI Parshottam Rupala",
+    "house": "Rajya Sabha",
+    "state": "Gujarat",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 34,
+    "totalAllocated": 17800000,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "MD Nadimul Haque",
+    "house": "Rajya Sabha",
+    "state": "West Bengal",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 1,
+    "totalAllocated": 17692914,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Adhir Ranjan Chowdhury",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "BAHARAMPUR",
+    "totalWorks": 13,
+    "totalAllocated": 17620000,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "Hemant Tukaram Godse",
+    "house": "Lok Sabha",
+    "state": "Maharashtra",
+    "constituency": "NASHIK",
+    "totalWorks": 19,
+    "totalAllocated": 17047709,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Uday Pratap Singh",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "HOSHANGABAD",
+    "totalWorks": 79,
+    "totalAllocated": 16804500,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Rajbahadur Singh",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "SAGAR",
+    "totalWorks": 34,
+    "totalAllocated": 16800000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Sonia Gandhi",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "RAE BARELI",
+    "totalWorks": 104,
+    "totalAllocated": 16182358,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "Rodmal Nagar",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "RAJGARH",
+    "totalWorks": 65,
+    "totalAllocated": 15889871,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "Dipsinh Shankarsinh Rathod",
+    "house": "Lok Sabha",
+    "state": "Gujarat",
+    "constituency": "SABARKANTHA",
+    "totalWorks": 40,
+    "totalAllocated": 15365000,
+    "avgRiskScore": 22
+  },
+  {
+    "mpName": "Satya Pal Singh",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "BAGHPAT",
+    "totalWorks": 18,
+    "totalAllocated": 14848800,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Ms Nusrat Jahan Ruhi",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "BASIRHAT",
+    "totalWorks": 5,
+    "totalAllocated": 14750000,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Smt Locket Chatterjee",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "HOOGHLY",
+    "totalWorks": 51,
+    "totalAllocated": 14676000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Shri Pramod Tiwari",
+    "house": "Rajya Sabha",
+    "state": "Rajasthan",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 16,
+    "totalAllocated": 14575000,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Shri Lallu Singh",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "FAIZABAD",
+    "totalWorks": 9,
+    "totalAllocated": 14230000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "SHRI Brijlal",
+    "house": "Rajya Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 113,
+    "totalAllocated": 14030000,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "Bhanu Pratap Singh Verma",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "JALAUN(SC)",
+    "totalWorks": 9,
+    "totalAllocated": 13972000,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "Shivkumar Chanabasappa Udasi",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "HAVERI",
+    "totalWorks": 31,
+    "totalAllocated": 13950000,
+    "avgRiskScore": 36
+  },
+  {
+    "mpName": "Upendra Singh Rawat",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "BARABANKI(SC)",
+    "totalWorks": 419,
+    "totalAllocated": 13801000,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "SHRI K R Suresh Reddy",
+    "house": "Rajya Sabha",
+    "state": "Telangana",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 18,
+    "totalAllocated": 13600000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Prasun Banerjee",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "HOWRAH",
+    "totalWorks": 11,
+    "totalAllocated": 13481167,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Shri Niranjan Reddy Sirgapoor",
+    "house": "Rajya Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 5,
+    "totalAllocated": 13475000,
+    "avgRiskScore": 43
+  },
+  {
+    "mpName": "Devendra Alias Bhole Singh",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "AKBARPUR",
+    "totalWorks": 10,
+    "totalAllocated": 13466000,
+    "avgRiskScore": 22
+  },
+  {
+    "mpName": "Kotagiri Sridhar",
+    "house": "Lok Sabha",
+    "state": "Andhra Pradesh",
+    "constituency": "ELURU",
+    "totalWorks": 4,
+    "totalAllocated": 13350000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "SHRI Jagat Prakash Nadda",
+    "house": "Rajya Sabha",
+    "state": "Himachal Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 22,
+    "totalAllocated": 13200000,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "Ranjan Singh Rajkumar",
+    "house": "Lok Sabha",
+    "state": "Manipur",
+    "constituency": "INNER MANIPUR",
+    "totalWorks": 4,
+    "totalAllocated": 13150000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Sanghamitra Maurya",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "BADAUN",
+    "totalWorks": 31,
+    "totalAllocated": 13059863,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Dr K Keshava Rao",
+    "house": "Rajya Sabha",
+    "state": "Telangana",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 24,
+    "totalAllocated": 13000000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Ms Debasree Chaudhuri",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "RAIGANJ",
+    "totalWorks": 23,
+    "totalAllocated": 12749938,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Smt Supriya Sadanand Sule",
+    "house": "Lok Sabha",
+    "state": "Maharashtra",
+    "constituency": "BARAMATI",
+    "totalWorks": 15,
+    "totalAllocated": 12500000,
+    "avgRiskScore": 60
+  },
+  {
+    "mpName": "Smt Darshana Vikram Jardosh",
+    "house": "Lok Sabha",
+    "state": "Gujarat",
+    "constituency": "SURAT",
+    "totalWorks": 8,
+    "totalAllocated": 12479000,
+    "avgRiskScore": 29
+  },
+  {
+    "mpName": "Subrata Pathak",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "KANNAUJ",
+    "totalWorks": 22,
+    "totalAllocated": 12455000,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Smt Himadri Singh",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "SHAHDOL (ST)",
+    "totalWorks": 47,
+    "totalAllocated": 11991737,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Vijay Kumar Dubey",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "KUSHI NAGAR",
+    "totalWorks": 34,
+    "totalAllocated": 11851000,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Saumitra khan",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "BISHNUPUR(SC)",
+    "totalWorks": 25,
+    "totalAllocated": 11838000,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Bharatiben Dhirubhai Shyal",
+    "house": "Lok Sabha",
+    "state": "Gujarat",
+    "constituency": "BHAVNAGAR",
+    "totalWorks": 20,
+    "totalAllocated": 11630000,
+    "avgRiskScore": 22
+  },
+  {
+    "mpName": "Ganesh Singh",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "SATNA",
+    "totalWorks": 56,
+    "totalAllocated": 11623000,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "Virendra Singh",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "BALLIA",
+    "totalWorks": 6,
+    "totalAllocated": 11600000,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Prabhubhai Nagarbhai Vasava",
+    "house": "Lok Sabha",
+    "state": "Gujarat",
+    "constituency": "BARDOLI(ST)",
+    "totalWorks": 26,
+    "totalAllocated": 11413000,
+    "avgRiskScore": 29
+  },
+  {
+    "mpName": "Prof Rita Bahuguna Joshi",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "ALLAHABAD",
+    "totalWorks": 76,
+    "totalAllocated": 11305159,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "Shri Anil Firojiya",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "UJJAIN(SC)",
+    "totalWorks": 29,
+    "totalAllocated": 11249926,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Santosh Kumar Gangwar",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "BAREILLY",
+    "totalWorks": 10,
+    "totalAllocated": 11196400,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "AKP Chinraj",
+    "house": "Lok Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "NAMAKKAL",
+    "totalWorks": 28,
+    "totalAllocated": 10944500,
+    "avgRiskScore": 52
+  },
+  {
+    "mpName": "Smt Dimple Yadav",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "MAINPURI",
+    "totalWorks": 14,
+    "totalAllocated": 10686644,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Faggan Singh Kulaste",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "MANDLA(ST)",
+    "totalWorks": 22,
+    "totalAllocated": 10622592,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Gyaneshwar Patil",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "KHANDWA",
+    "totalWorks": 21,
+    "totalAllocated": 10620000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Nakul K Nath",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "CHHINDWARA",
+    "totalWorks": 68,
+    "totalAllocated": 10458665,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "SHRI Ravichandra Vaddiraju",
+    "house": "Rajya Sabha",
+    "state": "Telangana",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 5,
+    "totalAllocated": 10328000,
+    "avgRiskScore": 22
+  },
+  {
+    "mpName": "Rajendra Dhedya Gavit",
+    "house": "Lok Sabha",
+    "state": "Maharashtra",
+    "constituency": "PALGHAR(ST)",
+    "totalWorks": 6,
+    "totalAllocated": 9600000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Shri SS Ahluwalia",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "BARDHAMAN-DURGAPUR",
+    "totalWorks": 7,
+    "totalAllocated": 9575791,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Shri Satish Kumar Gautam",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "ALIGARH",
+    "totalWorks": 15,
+    "totalAllocated": 9319000,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "Ms Mahua Moitra",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "KRISHNANAGAR",
+    "totalWorks": 4,
+    "totalAllocated": 9185523,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Gaddam Ranjith Reddy",
+    "house": "Lok Sabha",
+    "state": "Telangana",
+    "constituency": "CHELVELLA",
+    "totalWorks": 20,
+    "totalAllocated": 9020000,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Heena Vijaykumar Gavit",
+    "house": "Lok Sabha",
+    "state": "Maharashtra",
+    "constituency": "NANDURBAR(ST)",
+    "totalWorks": 5,
+    "totalAllocated": 9000000,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "Smt Gitaben Vajesingbhai Rathva",
+    "house": "Lok Sabha",
+    "state": "Gujarat",
+    "constituency": "CHHOTA UDAIPUR(ST)",
+    "totalWorks": 27,
+    "totalAllocated": 8950000,
+    "avgRiskScore": 57
+  },
+  {
+    "mpName": "Pratap Chandra Sarangi",
+    "house": "Lok Sabha",
+    "state": "Odisha",
+    "constituency": "BALASORE",
+    "totalWorks": 90,
+    "totalAllocated": 8682000,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "Praveen Kumar Nishad",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "SANT KABIR NAGAR",
+    "totalWorks": 5,
+    "totalAllocated": 8500000,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Dharmasthala Veerendra Heggade (NRS)",
+    "house": "Rajya Sabha",
+    "state": "Karnataka",
+    "constituency": "Nominated Rajya Sabha",
+    "totalWorks": 6,
+    "totalAllocated": 8500000,
+    "avgRiskScore": 47
+  },
+  {
+    "mpName": "Shri Shantanu Thakur",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "BANGAON(SC)",
+    "totalWorks": 3,
+    "totalAllocated": 8500000,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Shri Deepak (Dev) Adhikari",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "GHATAL",
+    "totalWorks": 17,
+    "totalAllocated": 8400000,
+    "avgRiskScore": 22
+  },
+  {
+    "mpName": "Jai Prakash",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "HARDOI (SC)",
+    "totalWorks": 9,
+    "totalAllocated": 8308600,
+    "avgRiskScore": 52
+  },
+  {
+    "mpName": "Ramesh Chandra Majhi",
+    "house": "Lok Sabha",
+    "state": "Odisha",
+    "constituency": "NABARANGPUR(ST)",
+    "totalWorks": 37,
+    "totalAllocated": 8300000,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Prathap Simha",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "MYSORE",
+    "totalWorks": 19,
+    "totalAllocated": 8200000,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Dhal Singh Bisen",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "BALAGHAT",
+    "totalWorks": 42,
+    "totalAllocated": 7726375,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Shri Ajay (Teni) Misra",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "KHERI",
+    "totalWorks": 7,
+    "totalAllocated": 7663300,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "Ram Shiromani",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "SHRAWASTI",
+    "totalWorks": 39,
+    "totalAllocated": 7487205,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Shri Shafiqur Rahman Barq",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "SAMBHAL",
+    "totalWorks": 33,
+    "totalAllocated": 7424300,
+    "avgRiskScore": 60
+  },
+  {
+    "mpName": "Asit Kumar Mal",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "BOLPUR(SC)",
+    "totalWorks": 9,
+    "totalAllocated": 7323433,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Smt Shardaben Anilbhai Patel",
+    "house": "Lok Sabha",
+    "state": "Gujarat",
+    "constituency": "MAHESANA",
+    "totalWorks": 27,
+    "totalAllocated": 7010000,
+    "avgRiskScore": 36
+  },
+  {
+    "mpName": "Ms Indu Bala Goswami",
+    "house": "Rajya Sabha",
+    "state": "Himachal Pradesh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 11,
+    "totalAllocated": 7000000,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Sadanand Shet Tanavade (Rajya Sabha)",
+    "house": "Rajya Sabha",
+    "state": "Goa",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 1,
+    "totalAllocated": 7000000,
+    "avgRiskScore": 47
+  },
+  {
+    "mpName": "Mitesh Rameshbhai Bakabhai Patel",
+    "house": "Lok Sabha",
+    "state": "Gujarat",
+    "constituency": "ANAND",
+    "totalWorks": 37,
+    "totalAllocated": 6989000,
+    "avgRiskScore": 64
+  },
+  {
+    "mpName": "Nityanand Rai",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "UJJARPUR",
+    "totalWorks": 14,
+    "totalAllocated": 6700000,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Shri Bhartruhari Mahtab",
+    "house": "Lok Sabha",
+    "state": "Odisha",
+    "constituency": "CUTTACK",
+    "totalWorks": 24,
+    "totalAllocated": 6120000,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "Subhash Sarkar",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "BANKURA",
+    "totalWorks": 34,
+    "totalAllocated": 6015000,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "SHRI Bikash Ranjan Bhattacharya",
+    "house": "Rajya Sabha",
+    "state": "West Bengal",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 2,
+    "totalAllocated": 5963414,
+    "avgRiskScore": 57
+  },
+  {
+    "mpName": "Dr Jayanta Kumar Roy",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "JALPAIGURI(SC)",
+    "totalWorks": 3,
+    "totalAllocated": 5844530,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Ghanshyam Singh Lodhi",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "RAMPUR",
+    "totalWorks": 15,
+    "totalAllocated": 5747000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Jitendra Singh",
+    "house": "Lok Sabha",
+    "state": "Jammu And Kashmir",
+    "constituency": "UDHAMPUR",
+    "totalWorks": 6,
+    "totalAllocated": 5706000,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Ratansinh Magansinh Rathod",
+    "house": "Lok Sabha",
+    "state": "Gujarat",
+    "constituency": "PANCHMAHAL",
+    "totalWorks": 5,
+    "totalAllocated": 5560000,
+    "avgRiskScore": 22
+  },
+  {
+    "mpName": "Smt Sandhya Ray",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "BHIND(SC)",
+    "totalWorks": 7,
+    "totalAllocated": 5542500,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "SHRI Abhishek Manu Singhvi",
+    "house": "Rajya Sabha",
+    "state": "West Bengal",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 1,
+    "totalAllocated": 5500000,
+    "avgRiskScore": 22
+  },
+  {
+    "mpName": "Dr Kalpana Saini",
+    "house": "Rajya Sabha",
+    "state": "Uttarakhand",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 4,
+    "totalAllocated": 5479934,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Mahesh Sharma",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "GAUTAM BUDDHA NAGAR",
+    "totalWorks": 6,
+    "totalAllocated": 5474000,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Shri Dibyendu Adhikari",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "TAMLUK",
+    "totalWorks": 11,
+    "totalAllocated": 5430081,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "Mahendra Nath Pandey",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "CHANDAULI",
+    "totalWorks": 9,
+    "totalAllocated": 5285428,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Jagdambika Pal",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "DOMARIYAGANJ",
+    "totalWorks": 9,
+    "totalAllocated": 5210000,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Swami Sachchidanandhari Sakshi ji Maharaj",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "UNNAO",
+    "totalWorks": 4,
+    "totalAllocated": 5082000,
+    "avgRiskScore": 37
+  },
+  {
+    "mpName": "SHRI Mallikarjun Kharge",
+    "house": "Rajya Sabha",
+    "state": "Karnataka",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 7,
+    "totalAllocated": 5000000,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "Aparupa Poddar",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "ARAMBAG(SC)",
+    "totalWorks": 2,
+    "totalAllocated": 5000000,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Khalilur Rahaman",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "JANGIPUR",
+    "totalWorks": 4,
+    "totalAllocated": 4920000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Dinesh Lal Yadav",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "AZAMGARH",
+    "totalWorks": 11,
+    "totalAllocated": 4837615,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "RK Singh Patel",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "BANDA",
+    "totalWorks": 9,
+    "totalAllocated": 4739000,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Pankaj Chowdhary",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "MAHARAJGANJ_UP",
+    "totalWorks": 7,
+    "totalAllocated": 4711000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Shri Ritesh Pandey",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "AMBEDKAR NAGAR",
+    "totalWorks": 9,
+    "totalAllocated": 4615700,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Durga Das Uikey",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "BETUL(ST)",
+    "totalWorks": 8,
+    "totalAllocated": 4573023,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "S Jaishankar (Sitting Rajya Sabha 2023)",
+    "house": "Rajya Sabha",
+    "state": "Gujarat",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 1,
+    "totalAllocated": 4450000,
+    "avgRiskScore": 23
+  },
+  {
+    "mpName": "Mansukhbhai Dhanjibhai Vasava",
+    "house": "Lok Sabha",
+    "state": "Gujarat",
+    "constituency": "BHARUCH",
+    "totalWorks": 14,
+    "totalAllocated": 4200000,
+    "avgRiskScore": 43
+  },
+  {
+    "mpName": "Arjunlal Meena",
+    "house": "Lok Sabha",
+    "state": "Rajasthan",
+    "constituency": "UDAIPUR(ST)",
+    "totalWorks": 5,
+    "totalAllocated": 4196000,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Devusinh Jesingbhai Chauhan",
+    "house": "Lok Sabha",
+    "state": "Gujarat",
+    "constituency": "KHEDA",
+    "totalWorks": 11,
+    "totalAllocated": 4045000,
+    "avgRiskScore": 29
+  },
+  {
+    "mpName": "Devji Mansingram Patel",
+    "house": "Lok Sabha",
+    "state": "Rajasthan",
+    "constituency": "JALORE",
+    "totalWorks": 6,
+    "totalAllocated": 3710000,
+    "avgRiskScore": 39
+  },
+  {
+    "mpName": "Shri Rameshbhai Lavjibhai Dhaduk",
+    "house": "Lok Sabha",
+    "state": "Gujarat",
+    "constituency": "PORBANDAR",
+    "totalWorks": 10,
+    "totalAllocated": 3694010,
+    "avgRiskScore": 64
+  },
+  {
+    "mpName": "Sangeeta Azad",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "LALGANJ (SC)",
+    "totalWorks": 6,
+    "totalAllocated": 3628000,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Parbatbhai Savabhai Patel",
+    "house": "Lok Sabha",
+    "state": "Gujarat",
+    "constituency": "BANASKANTHA",
+    "totalWorks": 2,
+    "totalAllocated": 3600000,
+    "avgRiskScore": 60
+  },
+  {
+    "mpName": "Km Saroj Pandey",
+    "house": "Rajya Sabha",
+    "state": "Chhattisgarh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 3,
+    "totalAllocated": 3580000,
+    "avgRiskScore": 35
+  },
+  {
+    "mpName": "Maneka Sanjay Gandhi",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "SULTANPUR",
+    "totalWorks": 4,
+    "totalAllocated": 3576000,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Anantkumar Hegde",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "UTTARA KANNADA",
+    "totalWorks": 7,
+    "totalAllocated": 3500000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Naranbhai Bhikhabhai Kachhadiya",
+    "house": "Lok Sabha",
+    "state": "Gujarat",
+    "constituency": "AMRELI",
+    "totalWorks": 12,
+    "totalAllocated": 3495750,
+    "avgRiskScore": 57
+  },
+  {
+    "mpName": "C R Patil",
+    "house": "Lok Sabha",
+    "state": "Gujarat",
+    "constituency": "NAVSARI",
+    "totalWorks": 2,
+    "totalAllocated": 3485000,
+    "avgRiskScore": 38
+  },
+  {
+    "mpName": "Shri Sudheer Gupta",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "MANDSOUR",
+    "totalWorks": 61,
+    "totalAllocated": 3440000,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Shri Sisir Kumar Adhikari",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "KANTHI",
+    "totalWorks": 2,
+    "totalAllocated": 3340168,
+    "avgRiskScore": 60
+  },
+  {
+    "mpName": "Pradeep Kumar Chaudhary",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "KAIRANA",
+    "totalWorks": 3,
+    "totalAllocated": 2893353,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "Shri Dilip Ghosh",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "MEDINIPUR",
+    "totalWorks": 2,
+    "totalAllocated": 2752002,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Kamlesh Paswan",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "BANSGAON(SC)",
+    "totalWorks": 3,
+    "totalAllocated": 2745400,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Prof Ram Shankar Katheria",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "ETAWAH(SC)",
+    "totalWorks": 11,
+    "totalAllocated": 2533011,
+    "avgRiskScore": 60
+  },
+  {
+    "mpName": "Shri Abu Hasem Khan Choudhury",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "MALDAHA DAKSHIN",
+    "totalWorks": 1,
+    "totalAllocated": 2500000,
+    "avgRiskScore": 43
+  },
+  {
+    "mpName": "Queen Oja",
+    "house": "Lok Sabha",
+    "state": "Assam",
+    "constituency": "GUWAHATI",
+    "totalWorks": 1,
+    "totalAllocated": 2500000,
+    "avgRiskScore": 38
+  },
+  {
+    "mpName": "Virendra Kumar",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "TIKAMGARH(SC)",
+    "totalWorks": 6,
+    "totalAllocated": 2485000,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Ramesh Pokhriyal Nishank",
+    "house": "Lok Sabha",
+    "state": "Uttarakhand",
+    "constituency": "HARDWAR",
+    "totalWorks": 6,
+    "totalAllocated": 2400000,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "Smt Sumalatha Ambareesh",
+    "house": "Lok Sabha",
+    "state": "Karnataka",
+    "constituency": "MANDYA",
+    "totalWorks": 3,
+    "totalAllocated": 2350000,
+    "avgRiskScore": 46
+  },
+  {
+    "mpName": "Pashupati Kumar Paras",
+    "house": "Lok Sabha",
+    "state": "Bihar",
+    "constituency": "HAJIPUR(SC)",
+    "totalWorks": 3,
+    "totalAllocated": 2298600,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Pratima Mondal",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "JOYNAGAR(SC)",
+    "totalWorks": 9,
+    "totalAllocated": 2200000,
+    "avgRiskScore": 28
+  },
+  {
+    "mpName": "Jagannath Sarkar",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "RANAGHAT(SC)",
+    "totalWorks": 6,
+    "totalAllocated": 2155000,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Khagen Murmu",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "MALDAHA UTTAR",
+    "totalWorks": 2,
+    "totalAllocated": 2150000,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "Smt Ranjeet Ranjan",
+    "house": "Rajya Sabha",
+    "state": "Chhattisgarh",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 2,
+    "totalAllocated": 2000000,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Ramesh Chand Bind",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "BHADOHI",
+    "totalWorks": 2,
+    "totalAllocated": 2000000,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Smriti Irani",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "AMETHI",
+    "totalWorks": 1,
+    "totalAllocated": 1963000,
+    "avgRiskScore": 59
+  },
+  {
+    "mpName": "Kunwar Pushpendra Singh Chandel",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "HAMIRPUR_UP",
+    "totalWorks": 5,
+    "totalAllocated": 1900000,
+    "avgRiskScore": 57
+  },
+  {
+    "mpName": "Smt PT Usha (NRS)",
+    "house": "Rajya Sabha",
+    "state": "Kerala",
+    "constituency": "Nominated Rajya Sabha",
+    "totalWorks": 1,
+    "totalAllocated": 1800000,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Omprakash Bhupalsinh Alias Pawan Rajenimbalkar",
+    "house": "Lok Sabha",
+    "state": "Maharashtra",
+    "constituency": "OSMANABAD",
+    "totalWorks": 2,
+    "totalAllocated": 1500000,
+    "avgRiskScore": 27
+  },
+  {
+    "mpName": "SHRI Sandosh Kumar P",
+    "house": "Rajya Sabha",
+    "state": "Kerala",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 1,
+    "totalAllocated": 1500000,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Ravindra Kushawaha",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "SALEMPUR",
+    "totalWorks": 2,
+    "totalAllocated": 1400000,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Dr Sukanta Majumdar",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "BALURGHAT",
+    "totalWorks": 8,
+    "totalAllocated": 1245000,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "SHRI Tiruchi Siva",
+    "house": "Rajya Sabha",
+    "state": "Tamil Nadu",
+    "constituency": "Sitting Rajya Sabha",
+    "totalWorks": 1,
+    "totalAllocated": 1227000,
+    "avgRiskScore": 49
+  },
+  {
+    "mpName": "Ramapati Ram Tripathi",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "DEORIA",
+    "totalWorks": 2,
+    "totalAllocated": 1200000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Chhatar Singh Darbar",
+    "house": "Lok Sabha",
+    "state": "Madhya Pradesh",
+    "constituency": "DHAR(ST)",
+    "totalWorks": 9,
+    "totalAllocated": 1199600,
+    "avgRiskScore": 25
+  },
+  {
+    "mpName": "Brijbhushan Sharan Singh",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "KAISERGANJ",
+    "totalWorks": 1,
+    "totalAllocated": 1198000,
+    "avgRiskScore": 53
+  },
+  {
+    "mpName": "Anto Antony",
+    "house": "Lok Sabha",
+    "state": "Kerala",
+    "constituency": "PATHANAMTHITTA",
+    "totalWorks": 1,
+    "totalAllocated": 985166,
+    "avgRiskScore": 52
+  },
+  {
+    "mpName": "Prataprao Jadhav",
+    "house": "Lok Sabha",
+    "state": "Maharashtra",
+    "constituency": "BULDHANA",
+    "totalWorks": 2,
+    "totalAllocated": 949170,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "T N Prathapan",
+    "house": "Lok Sabha",
+    "state": "Kerala",
+    "constituency": "THRISSUR",
+    "totalWorks": 2,
+    "totalAllocated": 796000,
+    "avgRiskScore": 21
+  },
+  {
+    "mpName": "Kirti Vardhan Singh",
+    "house": "Lok Sabha",
+    "state": "Uttar Pradesh",
+    "constituency": "GONDA",
+    "totalWorks": 2,
+    "totalAllocated": 736000,
+    "avgRiskScore": 63
+  },
+  {
+    "mpName": "Sunil Kumar Mondal",
+    "house": "Lok Sabha",
+    "state": "West Bengal",
+    "constituency": "BARDHAMAN PURBA(SC)",
+    "totalWorks": 1,
+    "totalAllocated": 600000,
+    "avgRiskScore": 56
+  },
+  {
+    "mpName": "Asaduddin Owaisi",
+    "house": "Lok Sabha",
+    "state": "Telangana",
+    "constituency": "HYDERABAD",
+    "totalWorks": 1,
+    "totalAllocated": 576035,
+    "avgRiskScore": 42
+  },
+  {
+    "mpName": "Subhash Ramrao Bhamre",
+    "house": "Lok Sabha",
+    "state": "Maharashtra",
+    "constituency": "DHULE",
+    "totalWorks": 2,
+    "totalAllocated": 490000,
+    "avgRiskScore": 32
+  },
+  {
+    "mpName": "Smt Poonamben Hematbhai Maadam",
+    "house": "Lok Sabha",
+    "state": "Gujarat",
+    "constituency": "JAMNAGAR",
+    "totalWorks": 1,
+    "totalAllocated": 400000,
+    "avgRiskScore": 50
+  }
+]

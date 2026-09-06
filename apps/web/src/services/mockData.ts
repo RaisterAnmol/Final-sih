@@ -323,17 +323,17 @@ export const MOCK_PROJECTS: Project[] = [
 
 export const MOCK_DASHBOARD_SUMMARY: DashboardSummary = {
   kpis: {
-    totalProjects: 5200,
-    totalAllocatedAmount: 11732000000,
-    totalUtilizedAmount: 8486000000,
+    totalProjects: 60359,
+    totalAllocatedAmount: 34982467506,
+    totalUtilizedAmount: 26236850629,
     avgRiskScore: 24.8,
     criticalRiskCount: 29,
-    highRiskCount: 240,
+    highRiskCount: 177,
     mediumRiskCount: 146,
-    lowRiskCount: 4785,
-    totalContractors: 84,
-    totalAnomalies: 269,
-    openRiskCases: 21,
+    lowRiskCount: 60007,
+    totalContractors: 699,
+    totalAnomalies: 5000,
+    openRiskCases: 30,
   },
   charts: {
     riskDistribution: [

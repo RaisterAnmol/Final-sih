@@ -10,6 +10,7 @@ import {
   temporalFallbackData,
   efficiencyFallbackData,
 } from "./mockData";
+import mpsData from "./mpsData.json";
 
 const api = axios.create({
   baseURL: import.meta.env.VITE_API_URL || "/api",
@@ -237,6 +238,55 @@ function getMockFallback(url: string, requestBody?: any) {
         success: true,
         data: {
           districts: MOCK_DISTRICTS,
+        },
+      },
+      status: 200,
+      statusText: "OK",
+      headers: {},
+      config: {} as any,
+    };
+  }
+
+  // 4b. Parliamentary MPs Directory (/projects/mps/directory)
+  if (url.includes("/projects/mps/directory")) {
+    const urlObj = new URL(url, "http://localhost");
+    const house = urlObj.searchParams.get("house") || "ALL";
+    const state = urlObj.searchParams.get("state") || "ALL";
+    const search = (urlObj.searchParams.get("search") || "")
+      .trim()
+      .toLowerCase();
+
+    let list = mpsData as Array<{
+      mpName: string;
+      house: string;
+      state: string;
+      constituency: string;
+      totalWorks: number;
+      totalAllocated: number;
+      avgRiskScore: number;
+    }>;
+
+    if (house !== "ALL") {
+      list = list.filter((m) => m.house.toLowerCase() === house.toLowerCase());
+    }
+    if (state !== "ALL") {
+      list = list.filter((m) => m.state.toLowerCase() === state.toLowerCase());
+    }
+    if (search) {
+      list = list.filter(
+        (m) =>
+          m.mpName.toLowerCase().includes(search) ||
+          m.constituency.toLowerCase().includes(search) ||
+          m.state.toLowerCase().includes(search),
+      );
+    }
+
+    return {
+      data: {
+        success: true,
+        data: {
+          totalMps: list.length,
+          mps: list,
         },
       },
       status: 200,
