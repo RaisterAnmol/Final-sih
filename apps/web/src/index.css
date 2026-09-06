@@ -1,0 +1,243 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+
+  :root.dark {
+    color-scheme: dark;
+  }
+
+  body {
+    background-color: #F5F7FF;
+    color: #0F172A;
+    font-family: 'Plus Jakarta Sans', 'Inter', system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    transition: background-color 0.2s cubic-bezier(0.4, 0, 0.2, 1), color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  html.dark body {
+    background-color: #0B0F17 !important;
+    color: #F8FAFC !important;
+  }
+
+  /* Vibrant Radiant Mesh Ambient Canvas (No Greys) */
+  .bg-command-grid {
+    background-image: 
+      radial-gradient(at 0% 0%, rgba(99, 102, 241, 0.12) 0px, transparent 50%),
+      radial-gradient(at 100% 0%, rgba(236, 72, 153, 0.1) 0px, transparent 50%),
+      radial-gradient(at 50% 100%, rgba(14, 165, 233, 0.1) 0px, transparent 50%),
+      linear-gradient(to right, rgba(99, 102, 241, 0.04) 1px, transparent 1px),
+      linear-gradient(to bottom, rgba(99, 102, 241, 0.04) 1px, transparent 1px);
+    background-size: 100% 100%, 100% 100%, 100% 100%, 32px 32px, 32px 32px;
+  }
+
+  html.dark .bg-command-grid {
+    background-image: 
+      radial-gradient(at 0% 0%, rgba(99, 102, 241, 0.18) 0px, transparent 50%),
+      radial-gradient(at 100% 0%, rgba(236, 72, 153, 0.14) 0px, transparent 50%),
+      radial-gradient(at 50% 100%, rgba(14, 165, 233, 0.14) 0px, transparent 50%),
+      linear-gradient(to right, rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+      linear-gradient(to bottom, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+  }
+
+  /* Vibrant Tinted Slim Scrollbars */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #A5B4FC;
+    border-radius: 9999px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #6366F1;
+  }
+
+  html.dark ::-webkit-scrollbar-thumb {
+    background: #4F46E5;
+  }
+  html.dark ::-webkit-scrollbar-thumb:hover {
+    background: #818CF8;
+  }
+}
+
+/* ── LUMINOUS PLAYFUL CARDS & HOVER MICRO-INTERACTIONS ── */
+
+.hud-panel {
+  background: #FFFFFF;
+  border: 1px solid #E0E7FF;
+  box-shadow: 0 4px 20px -2px rgba(99, 102, 241, 0.06), 0 2px 6px -1px rgba(99, 102, 241, 0.03);
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.hud-panel:hover {
+  transform: translateY(-2px);
+  border-color: #818CF8;
+  box-shadow: 0 14px 30px -4px rgba(99, 102, 241, 0.12), 0 6px 14px -2px rgba(99, 102, 241, 0.06);
+}
+
+html.dark .hud-panel {
+  background: #131823 !important;
+  border: 1px solid #1E293B !important;
+  box-shadow: 0 8px 30px -4px rgba(0, 0, 0, 0.6) !important;
+}
+
+html.dark .hud-panel:hover {
+  border-color: #4F46E5 !important;
+  box-shadow: 0 14px 40px -4px rgba(0, 0, 0, 0.8) !important;
+}
+
+/* ── DISTINCT VIBRANT COLOR BLOCKS ── */
+
+/* Ocean Azure / Indigo Block */
+.card-blue {
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.08) 0%, rgba(99, 102, 241, 0.04) 100%), #FFFFFF;
+  border: 1.5px solid rgba(59, 130, 246, 0.3);
+  box-shadow: 0 8px 24px -4px rgba(59, 130, 246, 0.12);
+}
+.card-blue:hover {
+  border-color: rgba(59, 130, 246, 0.8);
+  box-shadow: 0 14px 35px -4px rgba(59, 130, 246, 0.25);
+}
+html.dark .card-blue {
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.14) 0%, rgba(99, 102, 241, 0.06) 100%), #131823 !important;
+  border-color: rgba(59, 130, 246, 0.4) !important;
+}
+
+/* Coral / Crimson Risk Block */
+.card-rose {
+  background: linear-gradient(135deg, rgba(244, 63, 94, 0.09) 0%, rgba(239, 68, 68, 0.04) 100%), #FFFFFF;
+  border: 1.5px solid rgba(244, 63, 94, 0.3);
+  box-shadow: 0 8px 24px -4px rgba(244, 63, 94, 0.12);
+}
+.card-rose:hover {
+  border-color: rgba(244, 63, 94, 0.8);
+  box-shadow: 0 14px 35px -4px rgba(244, 63, 94, 0.25);
+}
+html.dark .card-rose {
+  background: linear-gradient(135deg, rgba(244, 63, 94, 0.14) 0%, rgba(239, 68, 68, 0.06) 100%), #131823 !important;
+  border-color: rgba(244, 63, 94, 0.4) !important;
+}
+
+/* Amber / Gold Capital Block */
+.card-amber {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.09) 0%, rgba(251, 191, 36, 0.04) 100%), #FFFFFF;
+  border: 1.5px solid rgba(245, 158, 11, 0.3);
+  box-shadow: 0 8px 24px -4px rgba(245, 158, 11, 0.12);
+}
+.card-amber:hover {
+  border-color: rgba(245, 158, 11, 0.8);
+  box-shadow: 0 14px 35px -4px rgba(245, 158, 11, 0.25);
+}
+html.dark .card-amber {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.14) 0%, rgba(251, 191, 36, 0.06) 100%), #131823 !important;
+  border-color: rgba(245, 158, 11, 0.4) !important;
+}
+
+/* Cosmic Purple / Fuchsia Case Block */
+.card-purple {
+  background: linear-gradient(135deg, rgba(168, 85, 247, 0.09) 0%, rgba(217, 70, 239, 0.04) 100%), #FFFFFF;
+  border: 1.5px solid rgba(168, 85, 247, 0.3);
+  box-shadow: 0 8px 24px -4px rgba(168, 85, 247, 0.12);
+}
+.card-purple:hover {
+  border-color: rgba(168, 85, 247, 0.8);
+  box-shadow: 0 14px 35px -4px rgba(168, 85, 247, 0.25);
+}
+html.dark .card-purple {
+  background: linear-gradient(135deg, rgba(168, 85, 247, 0.14) 0%, rgba(217, 70, 239, 0.06) 100%), #131823 !important;
+  border-color: rgba(168, 85, 247, 0.4) !important;
+}
+
+/* Emerald / Mint Block */
+.card-emerald {
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.09) 0%, rgba(20, 184, 166, 0.04) 100%), #FFFFFF;
+  border: 1.5px solid rgba(16, 185, 129, 0.3);
+  box-shadow: 0 8px 24px -4px rgba(16, 185, 129, 0.12);
+}
+.card-emerald:hover {
+  border-color: rgba(16, 185, 129, 0.8);
+  box-shadow: 0 14px 35px -4px rgba(16, 185, 129, 0.25);
+}
+html.dark .card-emerald {
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.14) 0%, rgba(20, 184, 166, 0.06) 100%), #131823 !important;
+  border-color: rgba(16, 185, 129, 0.4) !important;
+}
+
+/* Cyan / Sky GIS Block */
+.card-cyan {
+  background: linear-gradient(135deg, rgba(6, 182, 212, 0.09) 0%, rgba(56, 189, 248, 0.04) 100%), #FFFFFF;
+  border: 1.5px solid rgba(6, 182, 212, 0.3);
+  box-shadow: 0 8px 24px -4px rgba(6, 182, 212, 0.12);
+}
+.card-cyan:hover {
+  border-color: rgba(6, 182, 212, 0.8);
+  box-shadow: 0 14px 35px -4px rgba(6, 182, 212, 0.25);
+}
+html.dark .card-cyan {
+  background: linear-gradient(135deg, rgba(6, 182, 212, 0.14) 0%, rgba(56, 189, 248, 0.06) 100%), #131823 !important;
+  border-color: rgba(6, 182, 212, 0.4) !important;
+}
+
+/* Interactive Table Rows */
+tr.interactive-row:hover,
+.hover-interactive:hover {
+  background-color: rgba(99, 102, 241, 0.08) !important;
+  box-shadow: inset 3px 0 0 0 #4F46E5;
+}
+
+html.dark tr.interactive-row:hover,
+html.dark .hover-interactive:hover {
+  background-color: rgba(99, 102, 241, 0.15) !important;
+  box-shadow: inset 3px 0 0 0 #818CF8;
+}
+
+/* ── RECHARTS TOOLTIP GLOBAL STYLES ── */
+.recharts-default-tooltip {
+  background-color: rgba(255, 255, 255, 0.98) !important;
+  backdrop-filter: blur(16px) !important;
+  border: 1.5px solid #C7D2FE !important;
+  border-radius: 14px !important;
+  box-shadow: 0 14px 35px -5px rgba(99, 102, 241, 0.18) !important;
+  padding: 12px 16px !important;
+  z-index: 50 !important;
+}
+
+.recharts-default-tooltip .recharts-tooltip-item,
+.recharts-default-tooltip .recharts-tooltip-label,
+.recharts-tooltip-item,
+.recharts-tooltip-label,
+.recharts-tooltip-item-list,
+.recharts-tooltip-item-name,
+.recharts-tooltip-item-value {
+  color: #1E1B4B !important;
+  font-family: 'Plus Jakarta Sans', "JetBrains Mono", monospace !important;
+  font-size: 11px !important;
+  font-weight: 700 !important;
+}
+
+html.dark .recharts-default-tooltip {
+  background-color: rgba(19, 24, 35, 0.98) !important;
+  border: 1px solid #4F46E5 !important;
+  box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.8) !important;
+}
+
+html.dark .recharts-default-tooltip .recharts-tooltip-item,
+html.dark .recharts-default-tooltip .recharts-tooltip-label,
+html.dark .recharts-tooltip-item,
+html.dark .recharts-tooltip-label,
+html.dark .recharts-tooltip-item-list,
+html.dark .recharts-tooltip-item-name,
+html.dark .recharts-tooltip-item-value {
+  color: #F8FAFC !important;
+}
+
+/* Government-design system accents used by the shared institutional header. */
+.gov-focus-ring:focus-visible { outline: 3px solid rgba(248, 184, 78, .75); outline-offset: 2px; }
