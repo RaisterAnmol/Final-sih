@@ -155,7 +155,7 @@ Smt. Supriya Sule;Drinking Water RO Filtration Plant and Pipeline;Drinking Water
           </div>
           <div>
             <div className="text-3xl sm:text-4xl font-extrabold text-[#0F172A] dark:text-white font-mono tracking-tight">
-              <CountUpNumber end={17200} />
+              <CountUpNumber end={60359} />
             </div>
             <div className="flex items-center justify-between text-xs text-indigo-900/80 dark:text-indigo-300 mt-1 font-mono font-bold">
               <span>Ingested & Processed</span>
@@ -219,7 +219,7 @@ Smt. Supriya Sule;Drinking Water RO Filtration Plant and Pipeline;Drinking Water
           </div>
           <div>
             <div className="text-3xl sm:text-4xl font-extrabold text-purple-600 dark:text-purple-400 font-mono tracking-tight">
-              <CountUpNumber end={11911} />
+              <CountUpNumber end={5000} />
             </div>
             <div className="flex items-center justify-between text-xs text-indigo-900/80 dark:text-indigo-300 mt-1 font-mono font-bold">
               <span>Risk Signals Extracted</span>

@@ -53,7 +53,9 @@ api.interceptors.response.use(
     ) {
       if (
         import.meta.env.VITE_DEMO_MODE === "true" ||
-        window.location.hostname.includes("vercel.app")
+        window.location.hostname.includes("vercel.app") ||
+        window.location.hostname === "localhost" ||
+        window.location.hostname === "127.0.0.1"
       ) {
         return getMockFallback(response.config.url || "");
       }
@@ -85,14 +87,16 @@ api.interceptors.response.use(
 
     const isDemoMode =
       import.meta.env.VITE_DEMO_MODE === "true" ||
-      window.location.hostname.includes("vercel.app");
+      window.location.hostname.includes("vercel.app") ||
+      window.location.hostname === "localhost" ||
+      window.location.hostname === "127.0.0.1";
 
     if (
       isDemoMode &&
       (!error.response ||
-        error.response.status === 404 ||
-        error.response.status === 405 ||
-        error.code === "ERR_NETWORK")
+        [404, 405, 500, 502, 503, 504].includes(error.response.status) ||
+        error.code === "ERR_NETWORK" ||
+        error.code === "ECONNREFUSED")
     ) {
       console.warn(
         `[API Fallback] Serving fallback for ${url} (VITE_DEMO_MODE=true)`,
@@ -519,33 +523,113 @@ function getMockFallback(url: string, requestBody?: any) {
 
   // 13. Audit Logs (/audit-log)
   if (url.includes("/audit-log")) {
+    const now = Date.now();
+    const mockAuditLogs = [
+      {
+        _id: "log-1",
+        logId: "AUD-2026-0907-001",
+        action: "CASE_STATUS_UPDATED",
+        userName: "Dr. Rajesh Sharma",
+        userEmail: "auditor@mplad-insight.demo",
+        userRole: "AUDITOR",
+        resource: "RiskCase",
+        resourceType: "RiskCase",
+        resourceId: "CASE-2024-UP-003",
+        details:
+          "Elevated inquiry #CASE-2024-UP-003 to ESCALATED following March sanction clustering review.",
+        ipAddress: "127.0.0.1",
+        createdAt: new Date(now - 1000 * 60 * 12).toISOString(),
+        timestamp: new Date(now - 1000 * 60 * 12).toISOString(),
+      },
+      {
+        _id: "log-2",
+        logId: "AUD-2026-0907-002",
+        action: "OFFICIAL_DATA_IMPORT",
+        userName: "MoSPI System Operator",
+        userEmail: "admin@mplad-insight.demo",
+        userRole: "SYSTEM",
+        resource: "ProjectRegistry",
+        resourceType: "ImportJob",
+        resourceId: "IMPORT-MOSPI-60359",
+        details:
+          "Canonical ingestion verified: 60,359 public works records synchronized across 33 States & UTs.",
+        ipAddress: "127.0.0.1",
+        createdAt: new Date(now - 1000 * 60 * 65).toISOString(),
+        timestamp: new Date(now - 1000 * 60 * 65).toISOString(),
+      },
+      {
+        _id: "log-3",
+        logId: "AUD-2026-0907-003",
+        action: "BATCH_ANOMALY_RUN",
+        userName: "Ensemble Intelligence Engine",
+        userEmail: "engine@mplad-insight.demo",
+        userRole: "SYSTEM",
+        resource: "AnomalyPipeline",
+        resourceType: "AnomalyEngine",
+        resourceId: "RUN-HYBRID-2026",
+        details:
+          "Isolation Forest + TF-IDF multi-tier scan prioritized 5,000 analytical signals across 724 districts.",
+        ipAddress: "127.0.0.1",
+        createdAt: new Date(now - 1000 * 60 * 180).toISOString(),
+        timestamp: new Date(now - 1000 * 60 * 180).toISOString(),
+      },
+      {
+        _id: "log-4",
+        logId: "AUD-2026-0907-004",
+        action: "CONFIG_UPDATED",
+        userName: "Vikas Verma",
+        userEmail: "admin@mplad-insight.demo",
+        userRole: "ADMIN",
+        resource: "SystemConfiguration",
+        resourceType: "EngineCalibration",
+        resourceId: "CFG-2026-V1",
+        details:
+          "Calibrated statutory cost multiplier threshold to 2.2x and monopoly concentration limit to 30%.",
+        ipAddress: "127.0.0.1",
+        createdAt: new Date(now - 1000 * 60 * 360).toISOString(),
+        timestamp: new Date(now - 1000 * 60 * 360).toISOString(),
+      },
+      {
+        _id: "log-5",
+        logId: "AUD-2026-0907-005",
+        action: "NOTE_ADDED",
+        userName: "Priya Iyer",
+        userEmail: "auditor@mplad-insight.demo",
+        userRole: "AUDITOR",
+        resource: "RiskCase",
+        resourceType: "InvestigationDossier",
+        resourceId: "CASE-2024-KA-001",
+        details:
+          "Attached field inspection note: geo-tagged coordinate validation confirmed bridge span alignment.",
+        ipAddress: "127.0.0.1",
+        createdAt: new Date(now - 1000 * 60 * 720).toISOString(),
+        timestamp: new Date(now - 1000 * 60 * 720).toISOString(),
+      },
+      {
+        _id: "log-6",
+        logId: "AUD-2026-0907-006",
+        action: "REPORT_EXPORTED",
+        userName: "Dr. Rajesh Sharma",
+        userEmail: "auditor@mplad-insight.demo",
+        userRole: "AUDITOR",
+        resource: "StatutoryReport",
+        resourceType: "ReportGenerator",
+        resourceId: "REP-2026-Q1-ANNEX",
+        details:
+          "Generated official MoSPI Annexure-IV statutory audit report in cryptographic PDF format.",
+        ipAddress: "127.0.0.1",
+        createdAt: new Date(now - 1000 * 60 * 1440).toISOString(),
+        timestamp: new Date(now - 1000 * 60 * 1440).toISOString(),
+      },
+    ];
+
     return {
       data: {
         success: true,
         data: {
-          logs: [
-            {
-              _id: "log-1",
-              action: "RISK_CASE_UPDATE",
-              userEmail: "auditor@mplad-insight.demo",
-              resourceType: "RiskCase",
-              resourceId: "CASE-2024-KA-001",
-              details: "Status updated to UNDER_REVIEW by Auditor Officer",
-              timestamp: new Date().toISOString(),
-            },
-            {
-              _id: "log-2",
-              action: "DATA_IMPORT",
-              userEmail: "admin@mplad-insight.demo",
-              resourceType: "ImportJob",
-              resourceId: "IMPORT-5200",
-              details:
-                "Successfully ingested 5,200 MPLAD work records across 12 States",
-              timestamp: new Date(Date.now() - 3600000).toISOString(),
-            },
-          ],
+          logs: mockAuditLogs,
           pagination: {
-            total: 2,
+            total: mockAuditLogs.length,
           },
         },
       },

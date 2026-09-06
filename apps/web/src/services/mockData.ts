@@ -336,6 +336,15 @@ export const MOCK_DASHBOARD_SUMMARY: DashboardSummary = {
     openRiskCases: 30,
   },
   charts: {
+    rawStatusBreakdown: [
+      { rawStatus: "Action Pending", count: 38893 },
+      { rawStatus: "Approved by IDA", count: 20107 },
+      { rawStatus: "Rejected by IDA", count: 1357 },
+    ],
+    houseBreakdown: [
+      { house: "Lok Sabha", count: 46346, totalAmount: 24436157522 },
+      { house: "Rajya Sabha", count: 14011, totalAmount: 10545230834 },
+    ],
     riskDistribution: [
       { name: "Low (0-29)", count: 4785, color: "#10b981" },
       { name: "Medium (30-59)", count: 146, color: "#f59e0b" },
