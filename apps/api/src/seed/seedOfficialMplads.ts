@@ -176,6 +176,9 @@ export async function seedOfficialMplads(maxRecords = 65000): Promise<{
   }
 
   // Reset collections for clean authoritative snapshot import
+  // Reset collections for clean authoritative snapshot import.
+  // C8 FIX: AuditLog is INTENTIONALLY excluded — it is the tamper-evident
+  // record of all system activity and MUST be preserved across reseeds.
   await Project.deleteMany({});
   await District.deleteMany({});
   await Contractor.deleteMany({});

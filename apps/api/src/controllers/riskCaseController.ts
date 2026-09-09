@@ -2,6 +2,7 @@ import { Request, Response } from "express";
 import { RiskCase, CaseStatus } from "../models/RiskCase.js";
 import { Project } from "../models/Project.js";
 import { AuditService } from "../services/auditService.js";
+import crypto from "crypto";
 
 export async function getRiskCases(req: Request, res: Response): Promise<void> {
   const {
@@ -74,12 +75,10 @@ export async function createRiskCase(
 
   const project = await Project.findOne({ projectId });
   if (!project) {
-    res
-      .status(404)
-      .json({
-        success: false,
-        error: { code: "PROJECT_NOT_FOUND", message: "Project not found" },
-      });
+    res.status(404).json({
+      success: false,
+      error: { code: "PROJECT_NOT_FOUND", message: "Project not found" },
+    });
     return;
   }
 
@@ -99,8 +98,11 @@ export async function createRiskCase(
     return;
   }
 
-  const count = await RiskCase.countDocuments();
-  const caseId = `CASE-2024-${project.state.substring(0, 2).toUpperCase()}-${String(count + 1).padStart(4, "0")}`;
+  // #52 FIX: countDocuments()+1 creates a race condition under concurrent requests.
+  // Use cryptographic random suffix for collision-free, non-sequential case IDs.
+  const randomSuffix = crypto.randomBytes(4).toString("hex").toUpperCase();
+  const year = new Date().getFullYear();
+  const caseId = `CASE-${year}-${project.state.substring(0, 2).toUpperCase()}-${randomSuffix}`;
 
   const notes = [];
   if (initialNote && req.user) {
@@ -160,12 +162,10 @@ export async function getRiskCaseById(
   });
 
   if (!riskCase) {
-    res
-      .status(404)
-      .json({
-        success: false,
-        error: { code: "CASE_NOT_FOUND", message: "Risk case not found" },
-      });
+    res.status(404).json({
+      success: false,
+      error: { code: "CASE_NOT_FOUND", message: "Risk case not found" },
+    });
     return;
   }
 
@@ -202,12 +202,10 @@ export async function updateRiskCase(
     ],
   });
   if (!riskCase) {
-    res
-      .status(404)
-      .json({
-        success: false,
-        error: { code: "CASE_NOT_FOUND", message: "Risk case not found" },
-      });
+    res.status(404).json({
+      success: false,
+      error: { code: "CASE_NOT_FOUND", message: "Risk case not found" },
+    });
     return;
   }
 

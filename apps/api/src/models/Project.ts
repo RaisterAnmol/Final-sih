@@ -2,6 +2,8 @@ import mongoose, { Schema, Document } from "mongoose";
 
 export type ProjectStatus =
   | "SANCTIONED"
+  | "UNSANCTIONED"
+  | "RECOMMENDED"
   | "IN_PROGRESS"
   | "COMPLETED"
   | "DELAYED"
@@ -115,7 +117,15 @@ const ProjectSchema = new Schema<IProject>(
     progress: { type: Number, default: null, min: 0, max: 100 },
     status: {
       type: String,
-      enum: ["SANCTIONED", "IN_PROGRESS", "COMPLETED", "DELAYED", "CANCELLED"],
+      enum: [
+        "SANCTIONED",
+        "UNSANCTIONED",
+        "RECOMMENDED",
+        "IN_PROGRESS",
+        "COMPLETED",
+        "DELAYED",
+        "CANCELLED",
+      ],
       default: "SANCTIONED",
       index: true,
     },

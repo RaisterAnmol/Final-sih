@@ -2,6 +2,8 @@ export type ProjectStatus =
   | "PROPOSED"
   | "APPROVED"
   | "SANCTIONED"
+  | "UNSANCTIONED"
+  | "RECOMMENDED"
   | "IN_PROGRESS"
   | "COMPLETED"
   | "DELAYED"

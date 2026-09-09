@@ -28,6 +28,7 @@ import {
 } from "lucide-react";
 import api from "../services/api";
 import { Project } from "../types";
+import { ErrorView } from "../components/errors/ErrorView";
 import { RiskBadge } from "../components/common/RiskBadge";
 import { LoadingSkeleton } from "../components/common/LoadingSkeleton";
 import { SourceBadge } from "../components/civic/SourceBadge";
@@ -100,22 +101,13 @@ export const ProjectDetailsPage: React.FC = () => {
 
   if (!project) {
     return (
-      <div className="p-12 text-center bg-white dark:bg-[#0D1016] border border-[#D9DEE7] rounded-sm space-y-4">
-        <AlertTriangle className="w-10 h-10 text-[#F59E0B] mx-auto" />
-        <h2 className="text-lg font-bold text-[#1F2A5A] dark:text-white">
-          Source Record Not Found
-        </h2>
-        <p className="text-xs text-slate-500 max-w-sm mx-auto">
-          The requested MPLADS work ID could not be retrieved from the public snapshot database.
-        </p>
-        <button
-          type="button"
-          onClick={() => navigate("/projects")}
-          className="px-4 py-2 bg-[#1F2A5A] text-white rounded-sm text-xs font-semibold"
-        >
-          Return to Works Register
-        </button>
-      </div>
+      <ErrorView
+        type="PROJECT_NOT_FOUND"
+        resourceId={id}
+        title="MPLADS Project Record Not Found"
+        subtitle="CIVIL REGISTER LOOKUP FAILED"
+        description={`Project '${id || "UNKNOWN"}' was not found in the official 2023–24 public snapshot database. In accordance with zero-fabrication standards, arbitrary project fallbacks have been removed.`}
+      />
     );
   }
 

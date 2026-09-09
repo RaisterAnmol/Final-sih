@@ -43,6 +43,16 @@ api.interceptors.request.use((config) => {
   return config;
 });
 
+// Determine if mock fallback is explicitly enabled.
+// C2 FIX: localhost and 127.0.0.1 are removed — in dev, the real backend should be running.
+// Only activate mock mode when VITE_DEMO_MODE=true (set in Vercel env for the frontend-only deployment).
+function isMockModeActive(): boolean {
+  return (
+    import.meta.env.VITE_DEMO_MODE === "true" ||
+    window.location.hostname.includes("vercel.app")
+  );
+}
+
 api.interceptors.response.use(
   (response) => {
     // If response is HTML text instead of JSON (e.g. index.html returned by SPA fallback)
@@ -51,12 +61,10 @@ api.interceptors.response.use(
       (response.data.trim().toLowerCase().startsWith("<!doctype html") ||
         response.data.trim().toLowerCase().startsWith("<html"))
     ) {
-      if (
-        import.meta.env.VITE_DEMO_MODE === "true" ||
-        window.location.hostname.includes("vercel.app") ||
-        window.location.hostname === "localhost" ||
-        window.location.hostname === "127.0.0.1"
-      ) {
+      if (isMockModeActive()) {
+        console.warn(
+          `[API Fallback] HTML response intercepted for ${response.config.url} — serving mock data (DEMO MODE).`,
+        );
         return getMockFallback(response.config.url || "");
       }
       return Promise.reject(
@@ -85,21 +93,15 @@ api.interceptors.response.use(
       }
     }
 
-    const isDemoMode =
-      import.meta.env.VITE_DEMO_MODE === "true" ||
-      window.location.hostname.includes("vercel.app") ||
-      window.location.hostname === "localhost" ||
-      window.location.hostname === "127.0.0.1";
-
     if (
-      isDemoMode &&
+      isMockModeActive() &&
       (!error.response ||
         [404, 405, 500, 502, 503, 504].includes(error.response.status) ||
         error.code === "ERR_NETWORK" ||
         error.code === "ECONNREFUSED")
     ) {
       console.warn(
-        `[API Fallback] Serving fallback for ${url} (VITE_DEMO_MODE=true)`,
+        `[API Fallback] Serving mock data for ${url} (DEMO MODE active).`,
       );
       return Promise.resolve(getMockFallback(url, error.config?.data));
     }
@@ -130,7 +132,7 @@ function getMockFallback(url: string, requestBody?: any) {
       data: {
         success: true,
         data: {
-          token: `demo_jwt_token_${role.toLowerCase()}`,
+          token: `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.demo_token_${role.toLowerCase()}.sig`,
           user: {
             id: `usr-${role.toLowerCase()}`,
             name: `${role.charAt(0) + role.slice(1).toLowerCase()} Officer`,
@@ -302,11 +304,27 @@ function getMockFallback(url: string, requestBody?: any) {
 
   // 5. Projects list & detail (/projects)
   if (url.includes("/projects/")) {
-    const parts = url.split("/");
-    const pid = parts[parts.length - 1];
-    const project =
-      MOCK_PROJECTS.find((p) => p._id === pid || p.projectId === pid) ||
-      MOCK_PROJECTS[0];
+    const parts = url.split("?")[0].split("/");
+    const pid = decodeURIComponent(parts[parts.length - 1]);
+    const project = MOCK_PROJECTS.find(
+      (p) => p._id === pid || p.projectId?.toLowerCase() === pid.toLowerCase(),
+    );
+
+    if (!project) {
+      return {
+        data: {
+          success: false,
+          error: {
+            code: "PROJECT_NOT_FOUND",
+            message: `Project '${pid}' not found in mock catalog`,
+          },
+        },
+        status: 404,
+        statusText: "Not Found",
+        headers: {},
+        config: {} as any,
+      };
+    }
 
     return {
       data: {

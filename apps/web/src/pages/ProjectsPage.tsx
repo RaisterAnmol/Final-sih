@@ -325,7 +325,9 @@ export const ProjectsPage: React.FC = () => {
               className="w-full p-2 bg-[#F7F8FA] dark:bg-[#0D1016] border border-[#D9DEE7] dark:border-slate-800 rounded-sm font-semibold text-slate-700 dark:text-slate-300"
             >
               <option value="ALL">All Statuses</option>
-              <option value="SANCTIONED">Sanctioned / Unsanctioned</option>
+              <option value="SANCTIONED">Sanctioned</option>
+              <option value="UNSANCTIONED">Unsanctioned</option>
+              <option value="RECOMMENDED">Recommended</option>
               <option value="IN_PROGRESS">Ongoing / In Progress</option>
               <option value="COMPLETED">Completed</option>
               <option value="CANCELLED">Cancelled</option>

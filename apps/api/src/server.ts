@@ -23,6 +23,8 @@ import auditLogRoutes from "./routes/auditRoutes.js";
 import analyticsRoutes from "./routes/analyticsRoutes.js";
 import reportRoutes from "./routes/reportRoutes.js";
 import chatRoutes from "./routes/chatRoutes.js";
+import importRoutes from "./routes/importRoutes.js";
+import demoRoutes from "./routes/demoRoutes.js";
 
 // Middlewares
 import { errorHandler } from "./middleware/errorHandler.js";
@@ -87,6 +89,8 @@ app.use("/api/analytics", analyticsRoutes);
 app.use("/api/reports", reportRoutes);
 app.use("/api/chat", chatRoutes);
 app.use("/api/audit-logs", auditLogRoutes);
+app.use("/api/import", importRoutes);
+app.use("/api/demo", demoRoutes);
 app.use("/api", auditLogRoutes); // Support both /api/audit-log and /api/settings
 
 // Error Handling
@@ -113,6 +117,8 @@ async function startServer() {
     await seedDemoAccounts();
 
     // Ensure public-source snapshot is 100% seeded BEFORE accepting requests
+    // C8 FIX: Only reseed when explicitly requested via SEED_MODE=force.
+    // Automatic reseed would destroy RiskCase, AuditLog, Alert, Anomaly records silently.
     const projectCount = await Project.countDocuments();
     if (projectCount < 60359) {
       console.log(
@@ -122,6 +128,25 @@ async function startServer() {
       console.log(
         `[Bootstrap] ✓ Ingestion complete: ${stats.rowsImported} projects ready.`,
       );
+      if (process.env.SEED_MODE === 'force') {
+        console.log(
+          `[Bootstrap] SEED_MODE=force detected. Seeding public-source snapshot (current: ${projectCount}/60,359)...`,
+        );
+        const stats = await seedOfficialMplads();
+        console.log(
+          `[Bootstrap] ✓ Ingestion complete: ${stats.rowsImported} projects ready.`,
+        );
+      } else {
+        console.warn(
+          `[Bootstrap] ⚠ Database has only ${projectCount}/60,359 expected projects.`,
+        );
+        console.warn(
+          `[Bootstrap] ⚠ To seed from CSV, restart with SEED_MODE=force environment variable.`,
+        );
+        console.warn(
+          `[Bootstrap] ⚠ Skipping auto-seed to protect existing audit logs and investigation records.`,
+        );
+      }
     } else {
       console.log(
         `[Bootstrap] Database verified with ${projectCount} projects. Ready.`,

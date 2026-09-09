@@ -23,6 +23,11 @@ import { AlertsPage } from "./pages/AlertsPage";
 import { AuditLogsPage } from "./pages/AuditLogsPage";
 import { SettingsPage } from "./pages/SettingsPage";
 import { MPsPage } from "./pages/MPsPage";
+import { NotFoundPage } from "./pages/NotFoundPage";
+import { AccessDeniedPage } from "./pages/AccessDeniedPage";
+import { ServerErrorPage } from "./pages/ServerErrorPage";
+import { ErrorShowcasePage } from "./pages/ErrorShowcasePage";
+import { ErrorView } from "./components/errors/ErrorView";
 
 const ProtectedRoute: React.FC<{ children: React.ReactNode }> = ({
   children,
@@ -62,6 +67,10 @@ export const App: React.FC = () => {
               <Route path="/dashboard" element={<DashboardPage />} />
               <Route path="/mps" element={<MPsPage />} />
               <Route path="/projects" element={<ProjectsPage />} />
+              <Route
+                path="/works"
+                element={<Navigate to="/projects" replace />}
+              />
               <Route path="/projects/:id" element={<ProjectDetailsPage />} />
               <Route path="/anomalies" element={<AnomaliesPage />} />
               <Route path="/risk-cases" element={<RiskCasesPage />} />
@@ -81,8 +90,24 @@ export const App: React.FC = () => {
               <Route path="/settings" element={<SettingsPage />} />
             </Route>
 
-            {/* Fallback */}
-            <Route path="*" element={<Navigate to="/" replace />} />
+            {/* Error and Diagnostic Pages */}
+            <Route path="/404" element={<NotFoundPage />} />
+            <Route path="/403" element={<AccessDeniedPage />} />
+            <Route path="/500" element={<ServerErrorPage />} />
+            {/* Error & Diagnostic Suite */}
+            <Route path="/errors" element={<ErrorShowcasePage />} />
+            <Route path="/system-status" element={<ErrorShowcasePage />} />
+            <Route path="/404" element={<ErrorView type="404" />} />
+            <Route path="/401" element={<ErrorView type="401" />} />
+            <Route path="/403" element={<ErrorView type="403" />} />
+            <Route path="/429" element={<ErrorView type="429" />} />
+            <Route path="/500" element={<ErrorView type="500" />} />
+            <Route path="/503" element={<ErrorView type="503" />} />
+            <Route path="/offline" element={<ErrorView type="NETWORK" />} />
+
+            {/* Global Unmatched Path Catch-all */}
+            <Route path="*" element={<NotFoundPage />} />
+            <Route path="*" element={<ErrorView type="404" />} />
           </Routes>
         </BrowserRouter>
       </AuthProvider>

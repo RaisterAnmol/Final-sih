@@ -23,7 +23,14 @@ export interface ProjectCardData {
   allocatedAmount: number;
   utilizedAmount: number;
   progress: number;
-  status: "SANCTIONED" | "IN_PROGRESS" | "COMPLETED" | "DELAYED" | "CANCELLED";
+  status:
+    | "SANCTIONED"
+    | "UNSANCTIONED"
+    | "RECOMMENDED"
+    | "IN_PROGRESS"
+    | "COMPLETED"
+    | "DELAYED"
+    | "CANCELLED";
   contractorName?: string;
   riskScore?: number;
   riskLevel?: "LOW" | "MEDIUM" | "HIGH" | "CRITICAL";
@@ -35,7 +42,10 @@ export interface ProjectCardProps {
   onClick?: () => void;
 }
 
-export const ProjectCard: React.FC<ProjectCardProps> = ({ project, onClick }) => {
+export const ProjectCard: React.FC<ProjectCardProps> = ({
+  project,
+  onClick,
+}) => {
   const navigate = useNavigate();
 
   const handleCardClick = () => {
@@ -69,6 +79,18 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({ project, onClick }) =>
             DELAYED
           </span>
         );
+      case "UNSANCTIONED":
+        return (
+          <span className="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-[10px] font-mono font-bold bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 border border-slate-300 dark:border-slate-700 shadow-xs">
+            UNSANCTIONED
+          </span>
+        );
+      case "RECOMMENDED":
+        return (
+          <span className="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-[10px] font-mono font-bold bg-purple-100 dark:bg-purple-950 text-purple-800 dark:text-purple-300 border border-purple-300 dark:border-purple-800 shadow-xs">
+            RECOMMENDED
+          </span>
+        );
       case "SANCTIONED":
       default:
         return (
@@ -81,11 +103,28 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({ project, onClick }) =>
 
   // Determine vibrant theme based on sector category
   const getCategoryColor = () => {
-    if (project.category.includes("Education")) return "card-purple text-purple-700 border-purple-300 bg-purple-100 dark:bg-purple-950/60";
-    if (project.category.includes("Roads") || project.category.includes("Bridges")) return "card-amber text-amber-800 border-amber-300 bg-amber-100 dark:bg-amber-950/60";
-    if (project.category.includes("Health") || project.category.includes("Wellness")) return "card-rose text-rose-700 border-rose-300 bg-rose-100 dark:bg-rose-950/60";
-    if (project.category.includes("Water") || project.category.includes("Sanitation")) return "card-cyan text-cyan-700 border-cyan-300 bg-cyan-100 dark:bg-cyan-950/60";
-    if (project.category.includes("Rural") || project.category.includes("Community")) return "card-emerald text-emerald-700 border-emerald-300 bg-emerald-100 dark:bg-emerald-950/60";
+    if (project.category.includes("Education"))
+      return "card-purple text-purple-700 border-purple-300 bg-purple-100 dark:bg-purple-950/60";
+    if (
+      project.category.includes("Roads") ||
+      project.category.includes("Bridges")
+    )
+      return "card-amber text-amber-800 border-amber-300 bg-amber-100 dark:bg-amber-950/60";
+    if (
+      project.category.includes("Health") ||
+      project.category.includes("Wellness")
+    )
+      return "card-rose text-rose-700 border-rose-300 bg-rose-100 dark:bg-rose-950/60";
+    if (
+      project.category.includes("Water") ||
+      project.category.includes("Sanitation")
+    )
+      return "card-cyan text-cyan-700 border-cyan-300 bg-cyan-100 dark:bg-cyan-950/60";
+    if (
+      project.category.includes("Rural") ||
+      project.category.includes("Community")
+    )
+      return "card-emerald text-emerald-700 border-emerald-300 bg-emerald-100 dark:bg-emerald-950/60";
     return "card-blue text-blue-700 border-blue-300 bg-blue-100 dark:bg-blue-950/60";
   };
 
@@ -102,7 +141,9 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({ project, onClick }) =>
       <div className="space-y-2.5">
         <div className="flex items-center justify-between gap-2">
           {getStatusBadge()}
-          <span className={`text-[10px] font-mono font-bold px-2.5 py-0.5 rounded-full border truncate max-w-[170px] ${getCategoryColor()}`}>
+          <span
+            className={`text-[10px] font-mono font-bold px-2.5 py-0.5 rounded-full border truncate max-w-[170px] ${getCategoryColor()}`}
+          >
             {project.category}
           </span>
         </div>
@@ -141,7 +182,10 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({ project, onClick }) =>
               Sanctioned Cost
             </span>
             <span className="font-bold text-amber-600 dark:text-amber-400 text-sm">
-              ₹{costInLakhs} <span className="text-xs text-indigo-900/70 font-semibold">Lakh</span>
+              ₹{costInLakhs}{" "}
+              <span className="text-xs text-indigo-900/70 font-semibold">
+                Lakh
+              </span>
             </span>
           </div>
 

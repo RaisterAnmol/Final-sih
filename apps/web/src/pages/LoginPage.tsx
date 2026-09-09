@@ -31,12 +31,12 @@ export const LoginPage: React.FC = () => {
       await login(email, password);
       navigate("/dashboard");
     } catch (err: any) {
+      // C1 FIX: Display error and stay on login page — do NOT silently bypass authentication
       setError(
         err.response?.data?.error?.message ||
-          "Failed to authenticate. Using local demo fallback.",
+          err.message ||
+          "Authentication failed. Please check your credentials and ensure the system is accessible.",
       );
-      // Client-side instant activation
-      navigate("/dashboard");
     } finally {
       setLoading(false);
     }
@@ -51,8 +51,11 @@ export const LoginPage: React.FC = () => {
       await switchDemoRole(role);
       navigate("/dashboard");
     } catch (err: any) {
-      console.warn("Demo role fallback activated:", err);
-      navigate("/dashboard");
+      setError(
+        err.response?.data?.error?.message ||
+          err.message ||
+          "Demo login failed. Please ensure the backend is running.",
+      );
     } finally {
       setLoading(false);
     }

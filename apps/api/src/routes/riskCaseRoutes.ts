@@ -12,6 +12,8 @@ const router = Router();
 
 router.get('/', getRiskCases);
 router.get('/:id', getRiskCaseById);
+router.get('/', authenticateToken, getRiskCases);
+router.get('/:id', authenticateToken, getRiskCaseById);
 router.post('/', authenticateToken, authorizeRoles('ADMIN', 'AUDITOR'), createRiskCase);
 router.put('/:id', authenticateToken, authorizeRoles('ADMIN', 'AUDITOR'), updateRiskCase);
 

@@ -2,20 +2,11 @@ import React, { createContext, useContext, useState, useEffect } from "react";
 import api from "../services/api";
 import { User, UserRole } from "../types";
 
-const DEFAULT_AUDITOR_USER: User = {
-  id: "usr-auditor",
-  name: "Priya Iyer (Senior Audit Officer)",
-  email: "auditor@mplad-insight.demo",
-  role: "AUDITOR",
-  department: "Principal Directorate of Audit (Central)",
-  designation: "Senior Audit Officer (CAG Nominee)",
-};
-
 interface AuthContextType {
   user: User | null;
   token: string | null;
   loading: boolean;
-  login: (email: string, password?: string) => Promise<void>;
+  login: (email: string, password: string) => Promise<void>;
   logout: () => Promise<void>;
   switchDemoRole: (role: UserRole) => Promise<void>;
 }
@@ -25,17 +16,25 @@ const AuthContext = createContext<AuthContextType | undefined>(undefined);
 export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({
   children,
 }) => {
+  // C1 FIX: Start in unauthenticated state — never auto-login with hardcoded credentials.
+  // A governance system must require explicit authentication.
   const [user, setUser] = useState<User | null>(() => {
     try {
       const cached = localStorage.getItem("mplad_user");
-      return cached ? JSON.parse(cached) : DEFAULT_AUDITOR_USER;
+      const storedToken = localStorage.getItem("mplad_auth_token");
+      if (cached && storedToken && storedToken.startsWith("eyJ")) {
+        return JSON.parse(cached);
+      }
+      return null;
     } catch {
-      return DEFAULT_AUDITOR_USER;
+      return null;
     }
   });
 
   const [token, setToken] = useState<string | null>(() => {
-    return localStorage.getItem("mplad_auth_token") || "demo_jwt_auditor";
+    const stored = localStorage.getItem("mplad_auth_token");
+    // Only restore real JWTs — reject hardcoded demo tokens
+    return stored && stored.startsWith("eyJ") ? stored : null;
   });
 
   const [loading, setLoading] = useState<boolean>(false);
@@ -46,101 +45,70 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({
     hasSyncedRef.current = true;
 
     async function syncBackendSession() {
+      const storedToken = localStorage.getItem("mplad_auth_token");
+      if (!storedToken || !storedToken.startsWith("eyJ")) {
+        // Clear any stale demo state from previous sessions
+        localStorage.removeItem("mplad_auth_token");
+        localStorage.removeItem("mplad_user");
+        setUser(null);
+        setToken(null);
+        return;
+      }
+
       try {
-        const storedToken = localStorage.getItem("mplad_auth_token");
-        if (storedToken && storedToken.startsWith("eyJ")) {
-          const res = await api.get("/auth/me");
-          if (res.data?.data?.user) {
-            setUser(res.data.data.user);
-            localStorage.setItem("mplad_user", JSON.stringify(res.data.data.user));
-            return;
-          }
+        const res = await api.get("/auth/me");
+        if (res.data?.data?.user) {
+          setUser(res.data.data.user);
+          localStorage.setItem(
+            "mplad_user",
+            JSON.stringify(res.data.data.user),
+          );
         }
-
-        // Connect with backend to get live JWT token for active user email
-        const targetEmail = user?.email || "auditor@mplad-insight.demo";
-        const loginRes = await api.post("/auth/login", {
-          email: targetEmail,
-          password: "Demo@12345",
-        });
-
-        if (loginRes.data?.data?.token) {
-          const { token: jwtToken, user: userData } = loginRes.data.data;
-          setToken(jwtToken);
-          setUser(userData);
-          localStorage.setItem("mplad_auth_token", jwtToken);
-          localStorage.setItem("mplad_user", JSON.stringify(userData));
-        }
-      } catch (e) {
-        // Backend offline or starting — preserve local state seamlessly
-        console.debug("Backend session sync deferred:", e);
+      } catch {
+        // Token is expired or backend offline — clear stale session
+        localStorage.removeItem("mplad_auth_token");
+        localStorage.removeItem("mplad_user");
+        setUser(null);
+        setToken(null);
       }
     }
 
     syncBackendSession();
   }, []);
 
-  const login = async (email: string, password = "Demo@12345") => {
+  const login = async (email: string, password: string) => {
     const normalizedEmail = email.trim().toLowerCase();
-    
-    // Determine persona role
-    let targetRole: UserRole = "AUDITOR";
-    let personaName = "Audit Nodal Officer";
-    let dept = "Principal Directorate of Audit (Central)";
-
-    if (normalizedEmail.includes("admin")) {
-      targetRole = "ADMIN";
-      personaName = "Dr. Rajesh Sharma (Director General)";
-      dept = "Ministry of Statistics and Programme Implementation";
-    } else if (normalizedEmail.includes("analyst")) {
-      targetRole = "ANALYST";
-      personaName = "Vikram Singh (Data Science Lead)";
-      dept = "National Informatics Centre / MoSPI Analytics";
-    } else if (normalizedEmail.includes("viewer")) {
-      targetRole = "VIEWER";
-      personaName = "Ananya Deshmukh (Public Observer)";
-      dept = "Citizen & Parliamentary Oversight Cell";
-    }
-
-    const fallbackUser: User = {
-      id: `usr-${targetRole.toLowerCase()}`,
-      name: personaName,
-      email: normalizedEmail,
-      role: targetRole,
-      department: dept,
-      designation: targetRole === "ADMIN" ? "Director General (MoSPI)" : "Officer",
-    };
-
+    setLoading(true);
     try {
-      const res = await api.post("/auth/login", { email: normalizedEmail, password });
+      // C1 FIX: Login must succeed with real credentials or fail visibly.
+      // Never create a mock user on network failure.
+      const res = await api.post("/auth/login", {
+        email: normalizedEmail,
+        password,
+      });
       if (res.data?.data?.token) {
         const { token: jwtToken, user: userData } = res.data.data;
         setToken(jwtToken);
         setUser(userData);
         localStorage.setItem("mplad_auth_token", jwtToken);
         localStorage.setItem("mplad_user", JSON.stringify(userData));
-        return;
+      } else {
+        throw new Error("Authentication failed: no token returned");
       }
-    } catch {
-      // Offline fallback
+    } finally {
+      setLoading(false);
     }
-
-    // Immediate guaranteed local authentication
-    const mockToken = `demo_jwt_token_${targetRole.toLowerCase()}`;
-    setToken(mockToken);
-    setUser(fallbackUser);
-    localStorage.setItem("mplad_auth_token", mockToken);
-    localStorage.setItem("mplad_user", JSON.stringify(fallbackUser));
   };
 
   const logout = async () => {
     try {
       await api.post("/auth/logout");
     } catch {}
-    setUser(DEFAULT_AUDITOR_USER);
-    setToken("demo_jwt_auditor");
-    localStorage.setItem("mplad_user", JSON.stringify(DEFAULT_AUDITOR_USER));
-    localStorage.setItem("mplad_auth_token", "demo_jwt_auditor");
+    // C1 FIX: Logout clears to unauthenticated state — not a default demo user
+    setUser(null);
+    setToken(null);
+    localStorage.removeItem("mplad_auth_token");
+    localStorage.removeItem("mplad_user");
   };
 
   const switchDemoRole = async (role: UserRole) => {

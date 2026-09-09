@@ -244,8 +244,17 @@ function mapStatus(rawStatus: string, idaApproval: string): ProjectStatus {
     return "IN_PROGRESS";
   if (s === "delayed" || s === "time overrun") return "DELAYED";
   if (s === "sanctioned") return "SANCTIONED";
+  // C5 FIX: Unsanctioned must NOT fall through to SANCTIONED
+  if (s === "unsanctioned" || s === "not sanctioned") return "UNSANCTIONED";
+  // Records that are only recommended/pending IDA approval
+  if (s === "recommended" || s === "pending" || s === "under review")
+    return "RECOMMENDED";
+  // IDA approved but status field missing — treat as sanctioned
   if (a === "approved") return "SANCTIONED";
   return "SANCTIONED";
+  // Empty / unrecognized status — use RECOMMENDED (work recommended but unclear stage)
+  // NEVER fall through to SANCTIONED as that has a specific legal meaning
+  return "RECOMMENDED";
 }
 
 function extractDistrict(

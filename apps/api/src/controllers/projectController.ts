@@ -124,16 +124,11 @@ export async function getProjectById(
   }
 
   if (!project) {
-    // If still not found, fetch any sample project to ensure zero broken pages for demo IDs
-    project = await Project.findOne();
-  }
-
-  if (!project) {
     res.status(404).json({
       success: false,
       error: {
         code: "PROJECT_NOT_FOUND",
-        message: `Project '${id}' not found`,
+        message: `Project '${id}' not found in the public-source snapshot`,
       },
     });
     return;
